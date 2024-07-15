@@ -1,0 +1,23 @@
+Gene,Protein change,Mutation on interface,confidence,source,Count,Ratio,Number of samples
+kasA,p.Gly269Ser,Yes,,,1555,0.7097215883158375,2191
+kasA,p.Gly312Ser,No,,,308,0.14057507987220447,2191
+kasA,p.Asp319Glu,No,,,34,0.015518028297581013,2191
+kasA,p.His253Tyr,No,,,23,0.010497489730716568,2191
+kasA,p.Met165Ile,Yes,,,16,0.00730260155180283,2191
+kasA,p.Phe413Leu,No,,,14,0.006389776357827476,2191
+kasA,p.Ala45Ser,No,,,12,0.005476951163852123,2191
+kasA,p.Ser13Arg,No,,,11,0.005020538566864446,2191
+kasA,p.Pro389Leu,No,,,10,0.004564125969876769,2191
+kasA,p.Ala329Val,No,,,9,0.004107713372889092,2191
+ethA,p.Ser266Arg,No,Uncertain significance,WHO catalogue v2,860,0.17995396526469973,4779
+ethA,p.Ala381Pro,No,Uncertain significance,WHO catalogue v2,495,0.10357815442561205,4779
+ethA,p.Ala381Pro,No,Uncertain significance,tbdb,495,0.10357815442561205,4779
+ethA,p.Asn345Lys,Yes,Uncertain significance,WHO catalogue v2,372,0.0778405524168236,4779
+ethA,p.Thr314Ile,No,Uncertain significance,WHO catalogue v2,192,0.040175768989328314,4779
+ethA,p.His281Pro,No,Uncertain significance,WHO catalogue v2,186,0.0389202762084118,4779
+ethA,p.Pro334Ala,No,Uncertain significance,WHO catalogue v2,120,0.025109855618330193,4779
+ethA,p.Gly124Asp,No,Uncertain significance,WHO catalogue v2,93,0.0194601381042059,4779
+ethA,p.Pro378Leu,No,Uncertain significance,WHO catalogue v2,89,0.018623142916928227,4779
+ethA,p.Pro378Leu,No,Uncertain significance,tbdb,89,0.018623142916928227,4779
+ethA,p.Thr321Pro,No,Uncertain significance,WHO catalogue v2,85,0.017786147729650554,4779
+ethA,p.Thr453Ile,Yes,Uncertain significance,WHO catalogue v2,65,0.013601171793262189,4779

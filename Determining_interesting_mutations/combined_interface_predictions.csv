@@ -1,0 +1,1855 @@
+mutation,prediction,confidence,interface_residue,gene
+D415F,0.05,Uncertain significance,0,gyrA
+A500E,0.02,Uncertain significance,0,gyrA
+A288D,-0.29,Uncertain significance,0,gyrA
+A676D,-1.06,Uncertain significance,0,gyrA
+P472S,-0.57,Uncertain significance,0,gyrA
+G702S,-2.16,Uncertain significance,0,gyrA
+S772R,-1.85,Uncertain significance,0,gyrA
+K319N,-0.28,Uncertain significance,0,gyrA
+P7S,0.03,Uncertain significance,0,gyrA
+V352L,-0.27,Uncertain significance,0,gyrA
+R489S,-1.16,Uncertain significance,0,gyrA
+A210V,-1.3,Uncertain significance,0,gyrA
+V352M,-0.24,Uncertain significance,0,gyrA
+A434E,0.0,Uncertain significance,0,gyrA
+A581G,-1.71,Uncertain significance,0,gyrA
+A90W,-0.33,Uncertain significance,0,gyrA
+Q743H,-0.14,Uncertain significance,0,gyrA
+R607H,0.02,Uncertain significance,0,gyrA
+V768A,-2.16,Uncertain significance,0,gyrA
+G88C,0.27,Assoc w R,0,gyrA
+V372A,-1.32,Uncertain significance,0,gyrA
+D211G,-0.84,Uncertain significance,0,gyrA
+A384V,-1.08,Not assoc w R,0,gyrA
+T230S,0.02,Uncertain significance,0,gyrA
+R363C,-0.28,Uncertain significance,0,gyrA
+I314V,-0.95,Uncertain significance,0,gyrA
+A297D,-0.03,Uncertain significance,0,gyrA
+T355S,-0.14,Uncertain significance,0,gyrA
+D464E,-0.18,Uncertain significance,0,gyrA
+R495C,0.15,Uncertain significance,0,gyrA
+V327L,-0.86,Uncertain significance,0,gyrA
+S91P,-0.77,Assoc w R,0,gyrA
+Q25E,0.03,Uncertain significance,0,gyrA
+Y364D,-1.6,Uncertain significance,0,gyrA
+T735S,-1.69,Uncertain significance,0,gyrA
+G294A,-0.18,Uncertain significance,0,gyrA
+D583E,-0.09,Uncertain significance,0,gyrA
+T836K,0.08,Uncertain significance,0,gyrA
+I328L,-0.7,Uncertain significance,1,gyrA
+R497W,-0.4,Uncertain significance,0,gyrA
+H334Y,0.26,Uncertain significance,0,gyrA
+E485A,0.13,Uncertain significance,0,gyrA
+E79D,0.56,Uncertain significance,0,gyrA
+L274F,0.16,Uncertain significance,0,gyrA
+L346V,-0.65,Uncertain significance,0,gyrA
+V783L,-0.06,Uncertain significance,0,gyrA
+G646S,0.03,Uncertain significance,0,gyrA
+G63A,-0.22,Uncertain significance,1,gyrA
+A512V,-0.25,Uncertain significance,0,gyrA
+I408T,-0.8,Uncertain significance,0,gyrA
+E739Q,-0.08,Uncertain significance,0,gyrA
+A456G,-0.76,Uncertain significance,0,gyrA
+P102H,-0.28,,0,gyrA
+Y379C,-1.73,Uncertain significance,0,gyrA
+R292L,0.06,Uncertain significance,0,gyrA
+H557R,0.64,Uncertain significance,0,gyrA
+R409Q,0.06,Uncertain significance,0,gyrA
+T80A,-0.59,Not assoc w R,0,gyrA
+F228L,-0.69,Uncertain significance,0,gyrA
+D639A,0.07,Uncertain significance,0,gyrA
+E459K,-0.45,Uncertain significance,0,gyrA
+R375Q,-0.69,Uncertain significance,0,gyrA
+G694S,-0.39,Uncertain significance,0,gyrA
+D481E,0.48,Uncertain significance,0,gyrA
+A501V,-0.06,Uncertain significance,0,gyrA
+S506N,0.03,Uncertain significance,0,gyrA
+E738D,-0.01,Uncertain significance,0,gyrA
+H389P,-0.93,Uncertain significance,0,gyrA
+G311A,-0.44,Uncertain significance,0,gyrA
+V651A,-1.41,Uncertain significance,0,gyrA
+F64L,-0.8,Uncertain significance,1,gyrA
+D94F,-0.11,Uncertain significance,0,gyrA
+G503R,0.11,Uncertain significance,0,gyrA
+Q336K,-0.06,Uncertain significance,0,gyrA
+A736V,-0.41,Uncertain significance,0,gyrA
+L105R,-0.12,Uncertain significance,0,gyrA
+G63R,0.02,Uncertain significance,1,gyrA
+A90G,-0.98,Not assoc w R - Interim,0,gyrA
+Q679K,-0.38,Uncertain significance,0,gyrA
+L109V,-1.33,,0,gyrA
+E148D,-0.52,Uncertain significance,0,gyrA
+S237A,0.0,Uncertain significance,0,gyrA
+G780C,0.02,Uncertain significance,0,gyrA
+N826H,0.06,Uncertain significance,0,gyrA
+I92V,-0.39,Uncertain significance,0,gyrA
+T563S,0.17,Uncertain significance,0,gyrA
+A696V,-0.26,Uncertain significance,0,gyrA
+D532E,0.06,Uncertain significance,0,gyrA
+L812V,-1.45,Uncertain significance,0,gyrA
+I153V,-0.04,Uncertain significance,0,gyrA
+I478V,-0.56,Uncertain significance,0,gyrA
+G88A,0.23,Assoc w R - Interim,0,gyrA
+T5A,0.01,Uncertain significance,0,gyrA
+R392C,-0.1,Uncertain significance,0,gyrA
+H490N,-0.14,Uncertain significance,0,gyrA
+T378N,-0.25,Uncertain significance,0,gyrA
+E605G,-0.05,Uncertain significance,0,gyrA
+V596M,-0.15,Uncertain significance,0,gyrA
+L12F,0.04,Uncertain significance,0,gyrA
+A445V,0.04,Uncertain significance,0,gyrA
+K224E,-0.01,Uncertain significance,0,gyrA
+V544L,0.06,Uncertain significance,0,gyrA
+A696T,-0.34,Uncertain significance,0,gyrA
+P7L,0.02,Uncertain significance,0,gyrA
+R615H,0.32,Uncertain significance,0,gyrA
+S69G,0.02,Uncertain significance,0,gyrA
+V674I,-0.77,Uncertain significance,0,gyrA
+M703V,-1.12,Uncertain significance,0,gyrA
+F640V,-2.19,Uncertain significance,0,gyrA
+S680A,-1.51,Uncertain significance,0,gyrA
+E808Q,0.11,Uncertain significance,0,gyrA
+Q679H,-0.44,Uncertain significance,0,gyrA
+V278I,0.31,Uncertain significance,0,gyrA
+I189M,-0.38,Uncertain significance,0,gyrA
+F683L,-1.29,Uncertain significance,0,gyrA
+D770G,-0.65,Uncertain significance,0,gyrA
+R68C,0.05,Uncertain significance,0,gyrA
+E303K,-0.11,Uncertain significance,0,gyrA
+I408V,-0.55,Uncertain significance,0,gyrA
+R254L,0.1,Uncertain significance,0,gyrA
+M99I,-1.3,Uncertain significance,0,gyrA
+D810E,-0.14,Uncertain significance,0,gyrA
+A814T,-0.22,Uncertain significance,0,gyrA
+Q603H,-0.0,Uncertain significance,0,gyrA
+L465Q,-1.6,Uncertain significance,0,gyrA
+I478T,-1.15,Uncertain significance,0,gyrA
+M141T,-2.42,Uncertain significance,0,gyrA
+P8L,0.04,Uncertain significance,0,gyrA
+D30N,-0.03,Uncertain significance,1,gyrA
+S728A,-0.25,Uncertain significance,0,gyrA
+R26H,-0.79,Uncertain significance,0,gyrA
+V310I,0.02,Uncertain significance,0,gyrA
+I153M,-0.32,Uncertain significance,0,gyrA
+V624L,-0.71,Uncertain significance,0,gyrA
+R718C,0.01,Uncertain significance,0,gyrA
+D94A,-0.1,Assoc w R,0,gyrA
+I189V,-0.13,Uncertain significance,0,gyrA
+E317G,-1.73,Uncertain significance,0,gyrA
+Y276H,-2.03,Uncertain significance,0,gyrA
+V479M,-1.32,Uncertain significance,0,gyrA
+T638N,0.08,Uncertain significance,0,gyrA
+I390T,-1.18,Uncertain significance,0,gyrA
+S250Y,0.19,Uncertain significance,0,gyrA
+A788V,-0.97,Uncertain significance,0,gyrA
+R143K,0.13,Uncertain significance,0,gyrA
+S250A,0.01,Uncertain significance,0,gyrA
+S34R,0.26,Uncertain significance,0,gyrA
+D515N,0.09,Uncertain significance,0,gyrA
+D199Y,0.18,Uncertain significance,0,gyrA
+T590A,-0.03,Uncertain significance,0,gyrA
+H490Y,1.12,Uncertain significance,0,gyrA
+Q22H,0.02,Uncertain significance,0,gyrA
+E21Q,0.07,Not assoc w R,0,gyrA
+K636N,-0.42,Uncertain significance,0,gyrA
+D437G,-0.5,Uncertain significance,0,gyrA
+E140G,-1.24,Uncertain significance,1,gyrA
+E514Q,-0.02,Uncertain significance,0,gyrA
+S168T,-1.4,Uncertain significance,1,gyrA
+I462V,-0.8,Uncertain significance,0,gyrA
+V51A,-1.01,Uncertain significance,0,gyrA
+M141V,-1.51,Uncertain significance,0,gyrA
+R387Q,-0.01,Uncertain significance,0,gyrA
+V257L,-0.5,Uncertain significance,0,gyrA
+R292G,-0.02,Uncertain significance,0,gyrA
+T378I,-0.11,Uncertain significance,0,gyrA
+A288V,-0.08,Uncertain significance,0,gyrA
+Q573R,-0.37,Uncertain significance,0,gyrA
+L653V,-0.71,Uncertain significance,0,gyrA
+D515E,0.15,Uncertain significance,0,gyrA
+G88D,0.64,Uncertain significance,0,gyrA
+D825E,-0.25,Uncertain significance,0,gyrA
+Q475R,-1.68,Uncertain significance,0,gyrA
+R68G,-0.45,Uncertain significance,0,gyrA
+V326L,-0.37,Uncertain significance,0,gyrA
+R480C,0.01,Uncertain significance,0,gyrA
+L455R,-1.12,Uncertain significance,0,gyrA
+Q238R,0.04,Uncertain significance,0,gyrA
+V235A,-1.63,Uncertain significance,0,gyrA
+A410V,0.03,Uncertain significance,0,gyrA
+Q238E,0.05,Uncertain significance,0,gyrA
+V716G,-2.73,Uncertain significance,0,gyrA
+A579V,-0.16,Uncertain significance,0,gyrA
+R252P,0.05,Uncertain significance,0,gyrA
+P119L,-1.04,Uncertain significance,0,gyrA
+T836A,0.06,Uncertain significance,0,gyrA
+G158S,-0.28,Uncertain significance,1,gyrA
+A324V,-0.2,Uncertain significance,0,gyrA
+D488E,0.18,Uncertain significance,0,gyrA
+F705L,-1.92,Uncertain significance,0,gyrA
+D89G,-1.21,Uncertain significance,0,gyrA
+Q613E,-0.23,Not assoc w R,0,gyrA
+S95T,0.26,Not assoc w R,0,gyrA
+R65H,-0.78,Uncertain significance,1,gyrA
+T272I,0.17,Uncertain significance,0,gyrA
+A324G,-1.77,Uncertain significance,0,gyrA
+R252L,0.2,Not assoc w R - Interim,0,gyrA
+S536R,0.09,Uncertain significance,0,gyrA
+D504E,0.1,Uncertain significance,0,gyrA
+R607C,0.06,Uncertain significance,0,gyrA
+M141I,-1.25,Uncertain significance,0,gyrA
+R195G,-1.25,Uncertain significance,0,gyrA
+A587D,-0.75,Uncertain significance,0,gyrA
+S91A,-0.01,,0,gyrA
+E317D,-0.68,Uncertain significance,0,gyrA
+A432G,-2.51,Uncertain significance,0,gyrA
+A512S,-0.24,Uncertain significance,0,gyrA
+E21H,0.02,Uncertain significance,0,gyrA
+N818D,-0.34,Uncertain significance,0,gyrA
+Q290H,-0.09,Uncertain significance,0,gyrA
+P154L,0.04,Uncertain significance,0,gyrA
+L142V,-1.17,Uncertain significance,0,gyrA
+M139V,-0.7,Uncertain significance,0,gyrA
+N831D,0.11,Uncertain significance,0,gyrA
+E412V,0.03,Uncertain significance,0,gyrA
+D367E,0.11,Uncertain significance,0,gyrA
+R615L,0.19,Uncertain significance,0,gyrA
+R106C,-2.05,Uncertain significance,0,gyrA
+Q594R,-0.17,Uncertain significance,0,gyrA
+T638I,0.14,Uncertain significance,0,gyrA
+K319E,-0.04,Uncertain significance,0,gyrA
+T836R,0.09,Uncertain significance,0,gyrA
+T377I,-1.4,Uncertain significance,0,gyrA
+M24I,0.02,Uncertain significance,0,gyrA
+M24V,0.04,Uncertain significance,0,gyrA
+D94G,-0.84,Assoc w R,0,gyrA
+I554V,-0.39,Uncertain significance,0,gyrA
+K333R,0.05,Uncertain significance,1,gyrA
+D89N,-0.21,Assoc w R,0,gyrA
+N282K,0.11,Uncertain significance,0,gyrA
+Q797P,-0.14,Uncertain significance,0,gyrA
+S104L,-0.04,Uncertain significance,0,gyrA
+L766S,-1.63,Uncertain significance,0,gyrA
+D552G,0.01,Uncertain significance,0,gyrA
+D507H,0.07,Uncertain significance,0,gyrA
+P17L,0.03,Uncertain significance,0,gyrA
+P102L,-0.14,Uncertain significance,0,gyrA
+G477R,-0.13,Uncertain significance,0,gyrA
+G548R,-0.01,Uncertain significance,0,gyrA
+L671V,-1.3,Uncertain significance,0,gyrA
+D641Y,-0.19,Uncertain significance,0,gyrA
+S411A,-0.43,Uncertain significance,0,gyrA
+G823C,0.11,Uncertain significance,0,gyrA
+P17S,0.03,Uncertain significance,0,gyrA
+L205V,-0.51,Uncertain significance,0,gyrA
+A400V,-0.71,Uncertain significance,0,gyrA
+R513C,0.04,Uncertain significance,0,gyrA
+M804V,-0.46,Uncertain significance,0,gyrA
+A591V,-1.05,Uncertain significance,0,gyrA
+E289D,-0.57,Uncertain significance,0,gyrA
+L711M,-0.32,Uncertain significance,0,gyrA
+A406V,-0.02,Uncertain significance,0,gyrA
+T590M,0.03,Uncertain significance,0,gyrA
+N826I,0.08,Uncertain significance,0,gyrA
+D467H,-1.33,Uncertain significance,0,gyrA
+A662V,-0.33,Uncertain significance,0,gyrA
+P8A,0.03,Uncertain significance,0,gyrA
+P163A,-1.4,Uncertain significance,0,gyrA
+L134M,-0.21,Uncertain significance,0,gyrA
+V352A,-0.77,Uncertain significance,0,gyrA
+R592C,0.04,Uncertain significance,0,gyrA
+F683V,-1.87,Uncertain significance,0,gyrA
+D824A,0.15,Uncertain significance,0,gyrA
+A126S,-0.12,Uncertain significance,0,gyrA
+P108S,-0.65,Uncertain significance,0,gyrA
+A626V,-0.72,Uncertain significance,0,gyrA
+I681M,-1.1,Uncertain significance,0,gyrA
+T339S,-0.28,Uncertain significance,0,gyrA
+H368Q,0.53,Uncertain significance,0,gyrA
+R489K,-0.51,Uncertain significance,0,gyrA
+A217V,-0.03,Uncertain significance,0,gyrA
+G668D,0.06,Not assoc w R,0,gyrA
+I15V,0.04,Uncertain significance,0,gyrA
+L724V,-1.14,Uncertain significance,0,gyrA
+E147D,-0.78,Uncertain significance,0,gyrA
+D824N,0.17,Uncertain significance,0,gyrA
+Q22R,0.01,Uncertain significance,0,gyrA
+R789H,0.01,Uncertain significance,0,gyrA
+A297G,-0.46,Uncertain significance,0,gyrA
+V716F,-0.59,Uncertain significance,0,gyrA
+P741A,-0.24,Uncertain significance,0,gyrA
+H52Y,1.02,Uncertain significance,0,gyrA
+D94N,-0.14,Assoc w R,0,gyrA
+E289Q,-0.03,Uncertain significance,0,gyrA
+G729R,-0.23,Uncertain significance,0,gyrA
+D94Y,-0.05,Assoc w R,0,gyrA
+N629K,-0.27,Uncertain significance,0,gyrA
+I427V,-0.64,Uncertain significance,0,gyrA
+G823S,0.11,Uncertain significance,0,gyrA
+A417S,-0.61,Uncertain significance,0,gyrA
+E459A,-0.13,Uncertain significance,0,gyrA
+S62F,0.3,Uncertain significance,0,gyrA
+G503V,-0.03,Uncertain significance,0,gyrA
+S69T,0.07,,0,gyrA
+K799R,-0.14,Uncertain significance,0,gyrA
+S95A,0.14,Uncertain significance,0,gyrA
+Q790E,0.07,Uncertain significance,0,gyrA
+D481A,0.11,Uncertain significance,0,gyrA
+R128K,-0.01,Uncertain significance,0,gyrA
+D824E,0.22,Uncertain significance,0,gyrA
+K633R,-0.89,Uncertain significance,0,gyrA
+A736T,-1.01,Uncertain significance,0,gyrA
+N826D,0.11,Uncertain significance,0,gyrA
+G265S,-0.34,Uncertain significance,0,gyrA
+A456V,0.04,Uncertain significance,0,gyrA
+T413A,-0.84,Uncertain significance,0,gyrA
+P154R,0.88,Uncertain significance,0,gyrA
+Q305R,-0.28,Uncertain significance,0,gyrA
+A322E,-0.1,Uncertain significance,0,gyrA
+L659V,-1.17,Uncertain significance,0,gyrA
+H70R,-1.31,Uncertain significance,0,gyrA
+A126P,-0.27,Uncertain significance,0,gyrA
+P604T,0.02,Uncertain significance,0,gyrA
+V517L,-0.6,Uncertain significance,0,gyrA
+D687N,0.02,Uncertain significance,0,gyrA
+P50R,-0.4,Uncertain significance,0,gyrA
+D641E,-0.18,Uncertain significance,0,gyrA
+M99V,-1.39,Uncertain significance,0,gyrA
+I348V,-0.65,Uncertain significance,0,gyrA
+A512T,-0.38,Uncertain significance,0,gyrA
+K319T,-0.25,Uncertain significance,0,gyrA
+L401V,-0.6,Uncertain significance,0,gyrA
+F152L,-1.31,Uncertain significance,0,gyrA
+A787G,-1.29,Uncertain significance,0,gyrA
+D211E,-0.0,Uncertain significance,0,gyrA
+L398F,-0.77,Uncertain significance,0,gyrA
+K636T,-0.19,Uncertain significance,0,gyrA
+A676V,-0.66,Uncertain significance,0,gyrA
+G351A,-0.44,Uncertain significance,0,gyrA
+E386V,0.04,Uncertain significance,0,gyrA
+E214D,-0.05,Uncertain significance,0,gyrA
+D639G,-0.21,Uncertain significance,0,gyrA
+L358M,-0.88,Uncertain significance,0,gyrA
+Y365H,-2.57,Uncertain significance,0,gyrA
+E466A,-0.11,Uncertain significance,0,gyrA
+G832R,0.12,Uncertain significance,0,gyrA
+V649M,-0.46,Uncertain significance,0,gyrA
+G764R,0.54,Uncertain significance,0,gyrA
+M220R,-0.68,Uncertain significance,0,gyrA
+V742L,-0.12,Uncertain significance,0,gyrA
+G351W,-0.42,Uncertain significance,0,gyrA
+A126V,-0.13,Uncertain significance,0,gyrA
+D111G,-1.35,Uncertain significance,0,gyrA
+E412G,-0.11,Uncertain significance,0,gyrA
+G744A,-0.28,Uncertain significance,0,gyrA
+D367H,-0.15,Uncertain significance,0,gyrA
+R309Q,0.08,Uncertain significance,0,gyrA
+E508A,0.02,Uncertain significance,0,gyrA
+R539P,-0.06,Uncertain significance,0,gyrA
+A40T,-1.52,Uncertain significance,1,gyrA
+E808A,0.09,Uncertain significance,0,gyrA
+V783M,-0.01,Uncertain significance,0,gyrA
+N831K,0.09,Uncertain significance,0,gyrA
+A347V,0.24,Uncertain significance,0,gyrA
+A667V,0.1,Uncertain significance,0,gyrA
+A322S,-0.27,Uncertain significance,0,gyrA
+R222W,0.0,Uncertain significance,0,gyrA
+A74V,-0.37,Uncertain significance,0,gyrA
+K636E,-0.25,Uncertain significance,0,gyrA
+T355A,-0.39,Uncertain significance,0,gyrA
+G477E,0.24,Uncertain significance,0,gyrA
+E429A,-0.03,Uncertain significance,0,gyrA
+D415A,0.06,Uncertain significance,0,gyrA
+G236E,-0.32,Uncertain significance,0,gyrA
+T572N,-0.27,Uncertain significance,0,gyrA
+D262V,-0.68,Uncertain significance,0,gyrA
+Y722C,-2.45,Uncertain significance,0,gyrA
+E719Q,0.06,Uncertain significance,0,gyrA
+I815M,-1.09,Uncertain significance,0,gyrA
+D94H,-0.13,Assoc w R,0,gyrA
+F569C,-1.36,Uncertain significance,0,gyrA
+R26C,0.0,Uncertain significance,0,gyrA
+A71T,-0.46,Uncertain significance,0,gyrA
+V651I,-0.37,Uncertain significance,0,gyrA
+A406P,-0.0,Uncertain significance,0,gyrA
+A410T,-0.0,Uncertain significance,0,gyrA
+D262N,-0.58,Uncertain significance,0,gyrA
+T697A,-1.33,Uncertain significance,0,gyrA
+T267I,0.79,Uncertain significance,0,gyrA
+P275A,-1.2,Uncertain significance,0,gyrA
+V326G,-2.25,Uncertain significance,0,gyrA
+R254C,0.02,Uncertain significance,0,gyrA
+H192Q,-1.14,Uncertain significance,0,gyrA
+V310F,0.0,Uncertain significance,0,gyrA
+D467E,-0.46,Uncertain significance,0,gyrA
+A126E,0.0,Uncertain significance,0,gyrA
+R376L,-0.97,Uncertain significance,0,gyrA
+A90E,0.04,Uncertain significance,0,gyrA
+D532N,0.1,Uncertain significance,0,gyrA
+V150A,-1.17,Uncertain significance,0,gyrA
+L173V,0.23,Uncertain significance,0,gyrA
+A347S,-1.02,Uncertain significance,0,gyrA
+G247S,-1.26,Not assoc w R,0,gyrA
+V750A,-1.19,Uncertain significance,0,gyrA
+I452T,-0.31,Uncertain significance,0,gyrA
+G795R,0.02,Uncertain significance,0,gyrA
+R615G,0.17,Uncertain significance,0,gyrA
+D293Y,0.0,Uncertain significance,0,gyrA
+S645L,0.05,Uncertain significance,0,gyrA
+L566W,-1.34,Uncertain significance,0,gyrA
+R578Q,-1.22,Uncertain significance,0,gyrA
+D415N,0.16,Uncertain significance,0,gyrA
+I92M,-0.78,,0,gyrA
+A512G,-0.78,Uncertain significance,0,gyrA
+M438I,-0.76,Uncertain significance,0,gyrA
+H490R,0.18,Uncertain significance,0,gyrA
+V223I,-0.27,Uncertain significance,0,gyrA
+G88N,0.32,Uncertain significance,0,gyrA
+R789G,-0.06,Uncertain significance,0,gyrA
+K333N,-0.72,Uncertain significance,1,gyrA
+T836M,0.08,Uncertain significance,0,gyrA
+A347T,-0.81,Uncertain significance,0,gyrA
+I468V,-0.82,Uncertain significance,0,gyrA
+D509N,0.03,Uncertain significance,0,gyrA
+E412A,0.04,Uncertain significance,0,gyrA
+A463S,0.06,Not assoc w R,0,gyrA
+G265D,-0.5,Uncertain significance,0,gyrA
+R252G,-0.86,Uncertain significance,0,gyrA
+P66A,-0.59,Uncertain significance,1,gyrA
+A74S,-0.18,Uncertain significance,0,gyrA
+V516A,-1.04,Uncertain significance,0,gyrA
+N193S,-1.48,Uncertain significance,0,gyrA
+R392H,-1.19,Uncertain significance,0,gyrA
+A432V,-1.35,Uncertain significance,0,gyrA
+I520L,-0.31,Uncertain significance,0,gyrA
+Q290R,-0.08,Uncertain significance,0,gyrA
+D829E,0.18,Uncertain significance,0,gyrA
+L690V,-0.81,Uncertain significance,0,gyrA
+R14L,0.06,Uncertain significance,0,gyrA
+P123Q,0.04,Uncertain significance,0,gyrA
+E144Q,-0.48,Uncertain significance,0,gyrA
+D209G,0.06,Uncertain significance,0,gyrA
+R309W,0.08,Uncertain significance,0,gyrA
+I284V,-0.22,Uncertain significance,0,gyrA
+A689V,0.02,Uncertain significance,0,gyrA
+G694A,-0.69,Uncertain significance,0,gyrA
+L296P,-2.0,Uncertain significance,0,gyrA
+D94V,-0.05,Uncertain significance,0,gyrA
+L549V,-0.39,Uncertain significance,0,gyrA
+S698L,-0.7,Uncertain significance,0,gyrA
+A198G,-2.37,Uncertain significance,0,gyrA
+R450S,0.06,Uncertain significance,0,gyrA
+R380G,-2.5,Uncertain significance,0,gyrA
+D834N,0.11,Uncertain significance,0,gyrA
+D402E,0.18,Uncertain significance,0,gyrA
+D481G,-0.12,Uncertain significance,0,gyrA
+R68S,-0.13,Uncertain significance,0,gyrA
+T246A,-0.09,Uncertain significance,0,gyrA
+D488A,0.05,Uncertain significance,0,gyrA
+G112C,0.15,Uncertain significance,0,gyrA
+A186T,-0.14,Uncertain significance,0,gyrA
+I707V,0.11,Uncertain significance,0,gyrA
+D493H,-0.15,Uncertain significance,0,gyrA
+S642C,0.19,Uncertain significance,0,gyrA
+T355M,-0.09,Uncertain significance,0,gyrA
+G236V,-1.13,Uncertain significance,0,gyrA
+Q113E,-0.01,Uncertain significance,0,gyrA
+Q475P,-2.82,Uncertain significance,0,gyrA
+Q277R,0.03,Uncertain significance,0,gyrA
+S237P,-0.03,Uncertain significance,0,gyrA
+L425F,-0.67,Uncertain significance,0,gyrA
+T686S,-0.59,Uncertain significance,0,gyrA
+P621L,-0.75,Uncertain significance,0,gyrA
+E79K,0.76,Uncertain significance,0,gyrA
+A74T,-0.35,Uncertain significance,0,gyrA
+D242N,-0.62,Uncertain significance,0,gyrA
+L455V,-0.84,Uncertain significance,0,gyrA
+N301T,0.0,Uncertain significance,0,gyrA
+R758W,0.08,Uncertain significance,0,gyrA
+A620T,-1.4,Uncertain significance,0,gyrA
+S168N,-1.77,Uncertain significance,1,gyrA
+A90V,-0.02,Assoc w R,0,gyrA
+K452N,-0.09,Uncertain significance,0,gyrB
+T507M,-0.03,,0,gyrB
+T500N,0.0,Uncertain significance,0,gyrB
+T214P,-1.99,Uncertain significance,0,gyrB
+E21D,0.04,Uncertain significance,0,gyrB
+M616V,-0.89,Uncertain significance,0,gyrB
+R446G,-0.17,Uncertain significance,0,gyrB
+R429C,0.04,Uncertain significance,0,gyrB
+P343S,-0.06,Uncertain significance,0,gyrB
+L69V,-1.21,Uncertain significance,0,gyrB
+S413A,-0.06,Uncertain significance,0,gyrB
+D434H,0.0,Uncertain significance,0,gyrB
+R192P,-0.56,Uncertain significance,0,gyrB
+P177R,0.05,Uncertain significance,0,gyrB
+I46S,-2.48,Uncertain significance,0,gyrB
+V670F,-0.08,Uncertain significance,0,gyrB
+E425A,0.02,Uncertain significance,0,gyrB
+V327L,-0.45,Uncertain significance,0,gyrB
+R451H,0.04,Uncertain significance,0,gyrB
+N207D,-0.58,Uncertain significance,0,gyrB
+A229T,-0.0,Uncertain significance,0,gyrB
+Y253S,-1.13,Uncertain significance,0,gyrB
+K430N,0.02,Uncertain significance,0,gyrB
+S279F,0.17,Uncertain significance,0,gyrB
+A78V,-0.0,Uncertain significance,0,gyrB
+L673P,-0.48,Uncertain significance,0,gyrB
+S274R,0.18,Uncertain significance,0,gyrB
+D588N,0.23,Uncertain significance,0,gyrB
+H252Y,-0.07,Uncertain significance,0,gyrB
+E228Q,0.05,Uncertain significance,0,gyrB
+D225G,-0.02,Uncertain significance,0,gyrB
+V68A,-1.96,Uncertain significance,0,gyrB
+R523S,-1.52,Uncertain significance,0,gyrB
+N558D,0.28,Uncertain significance,0,gyrB
+I607V,-0.18,Uncertain significance,0,gyrB
+I116M,-0.43,Uncertain significance,0,gyrB
+V407L,-0.38,Uncertain significance,0,gyrB
+E228D,0.04,Uncertain significance,0,gyrB
+D461V,-0.04,Uncertain significance,0,gyrB
+I486V,-0.39,Uncertain significance,0,gyrB
+S447Y,-0.58,Uncertain significance,0,gyrB
+T378S,0.1,Uncertain significance,0,gyrB
+P177L,0.01,Uncertain significance,0,gyrB
+K498N,-0.13,Uncertain significance,0,gyrB
+K526Q,-0.51,Uncertain significance,0,gyrB
+S576G,-0.59,Uncertain significance,0,gyrB
+I84V,-0.57,Uncertain significance,0,gyrB
+Y144S,-1.99,Uncertain significance,0,gyrB
+D657G,-1.07,Uncertain significance,0,gyrB
+A332V,-1.23,Uncertain significance,0,gyrB
+V222M,-0.01,Uncertain significance,0,gyrB
+D216G,-0.16,Uncertain significance,0,gyrB
+T189P,-2.28,Uncertain significance,0,gyrB
+I556V,0.61,Uncertain significance,0,gyrB
+A90G,-0.2,Uncertain significance,0,gyrB
+V502F,-2.27,Uncertain significance,0,gyrB
+V68L,-0.73,Uncertain significance,0,gyrB
+T37S,-0.17,Uncertain significance,0,gyrB
+T507A,-0.25,Uncertain significance,0,gyrB
+A618D,-0.04,Uncertain significance,0,gyrB
+A597T,-0.11,Uncertain significance,0,gyrB
+D461A,-0.1,Uncertain significance,0,gyrB
+K668E,0.02,Uncertain significance,0,gyrB
+A618T,0.22,Uncertain significance,0,gyrB
+D225E,0.1,Uncertain significance,0,gyrB
+H311Y,1.55,Uncertain significance,0,gyrB
+D645E,-0.34,Uncertain significance,1,gyrB
+T500A,-0.05,Uncertain significance,0,gyrB
+A233G,-0.09,Uncertain significance,0,gyrB
+P480S,-1.1,Uncertain significance,0,gyrB
+S466P,-0.56,Uncertain significance,0,gyrB
+A467V,-1.65,Uncertain significance,0,gyrB
+P578A,-0.9,Uncertain significance,0,gyrB
+V226A,0.03,Uncertain significance,0,gyrB
+A403S,0.42,Not assoc w R,0,gyrB
+D518G,-1.37,Uncertain significance,0,gyrB
+R587G,-2.5,Uncertain significance,0,gyrB
+P343L,-0.05,Uncertain significance,0,gyrB
+G594R,-1.38,Uncertain significance,0,gyrB
+A467T,-2.38,Uncertain significance,0,gyrB
+K596N,0.03,Uncertain significance,0,gyrB
+P243S,0.05,Uncertain significance,0,gyrB
+K599R,-0.78,Uncertain significance,0,gyrB
+D434G,-0.37,Uncertain significance,0,gyrB
+R575H,0.05,Uncertain significance,0,gyrB
+A162S,0.02,Uncertain significance,0,gyrB
+E654A,0.02,Uncertain significance,0,gyrB
+G598E,0.02,Uncertain significance,0,gyrB
+A78G,-1.65,Uncertain significance,0,gyrB
+N499D,-0.95,Assoc w R,0,gyrB
+H311R,0.53,Uncertain significance,0,gyrB
+D627A,-1.93,Uncertain significance,0,gyrB
+E501D,-1.19,Assoc w R - Interim,0,gyrB
+I505V,-1.02,Uncertain significance,0,gyrB
+P578S,-0.7,Uncertain significance,0,gyrB
+E604K,0.12,Uncertain significance,0,gyrB
+T170K,-0.28,Uncertain significance,0,gyrB
+E379G,-1.3,Uncertain significance,0,gyrB
+P439A,0.01,Uncertain significance,0,gyrB
+A175T,-1.02,Uncertain significance,0,gyrB
+G589V,-0.31,Uncertain significance,0,gyrB
+G437A,-0.3,Uncertain significance,0,gyrB
+P578R,-0.31,Uncertain significance,0,gyrB
+L156R,0.01,Uncertain significance,0,gyrB
+N399S,-1.13,Uncertain significance,0,gyrB
+V427M,0.02,Uncertain significance,0,gyrB
+P163L,0.17,Uncertain significance,0,gyrB
+M100V,-1.92,Uncertain significance,0,gyrB
+E21Q,0.05,Uncertain significance,0,gyrB
+D176E,-0.36,Uncertain significance,0,gyrB
+T267S,0.06,Uncertain significance,0,gyrB
+G512R,-0.38,Uncertain significance,0,gyrB
+A398V,0.09,Uncertain significance,0,gyrB
+Q4R,0.06,Uncertain significance,0,gyrB
+A78T,-0.8,Uncertain significance,0,gyrB
+G436R,0.02,Uncertain significance,0,gyrB
+E151D,-0.19,Uncertain significance,0,gyrB
+V457L,-0.81,Uncertain significance,0,gyrB
+M197I,-0.7,Uncertain significance,0,gyrB
+P628A,-0.39,Uncertain significance,0,gyrB
+I206S,-3.64,Uncertain significance,0,gyrB
+I271V,0.44,Uncertain significance,0,gyrB
+S248G,-0.59,Uncertain significance,0,gyrB
+S576T,-0.08,Uncertain significance,0,gyrB
+V405A,0.32,Uncertain significance,0,gyrB
+A237G,-1.2,Uncertain significance,0,gyrB
+G470S,-0.53,Uncertain significance,0,gyrB
+A130S,-0.35,Uncertain significance,0,gyrB
+P94L,-0.49,Not assoc w R,0,gyrB
+H302R,-0.33,Uncertain significance,0,gyrB
+R446H,-0.09,Uncertain significance,0,gyrB
+R523H,-1.55,Uncertain significance,0,gyrB
+E604V,0.17,Uncertain significance,0,gyrB
+H560N,-1.78,Uncertain significance,0,gyrB
+A423V,-0.02,Uncertain significance,0,gyrB
+I19L,0.03,Uncertain significance,0,gyrB
+R446L,0.02,Uncertain significance,0,gyrB
+R634L,0.03,Uncertain significance,0,gyrB
+S16C,0.41,Uncertain significance,0,gyrB
+R553W,-0.07,Uncertain significance,0,gyrB
+L156M,-0.06,Uncertain significance,0,gyrB
+T393S,-0.06,Uncertain significance,0,gyrB
+D334G,-0.64,Uncertain significance,0,gyrB
+A242T,-0.14,Uncertain significance,0,gyrB
+G520A,0.12,Not assoc w R,0,gyrB
+A641D,-0.06,Uncertain significance,0,gyrB
+D97E,-0.51,Uncertain significance,0,gyrB
+T209A,-1.09,Uncertain significance,0,gyrB
+A403V,0.01,Uncertain significance,0,gyrB
+E501A,-0.75,Uncertain significance,0,gyrB
+D340G,-0.0,Uncertain significance,0,gyrB
+S629A,0.04,Uncertain significance,0,gyrB
+T167A,0.1,Uncertain significance,0,gyrB
+K333R,-0.06,Uncertain significance,0,gyrB
+T664I,-0.01,Uncertain significance,0,gyrB
+P163S,-0.03,Uncertain significance,0,gyrB
+V301M,-0.41,Uncertain significance,1,gyrB
+A618V,0.3,Uncertain significance,0,gyrB
+A238T,0.01,Uncertain significance,0,gyrB
+I271M,0.28,Uncertain significance,0,gyrB
+D640A,-0.69,Uncertain significance,0,gyrB
+N666S,-0.07,Uncertain significance,0,gyrB
+E397D,-0.68,Uncertain significance,0,gyrB
+P254L,-0.07,Uncertain significance,0,gyrB
+E71D,-0.31,Uncertain significance,0,gyrB
+E586K,-0.73,Uncertain significance,0,gyrB
+D472N,-0.09,Uncertain significance,0,gyrB
+S576I,-0.02,Uncertain significance,0,gyrB
+I478L,-1.1,Uncertain significance,0,gyrB
+P400R,0.0,Uncertain significance,0,gyrB
+L375V,-0.56,Uncertain significance,0,gyrB
+A2S,0.04,Uncertain significance,0,gyrB
+M530T,-2.35,Uncertain significance,0,gyrB
+S274T,0.37,Uncertain significance,0,gyrB
+D342E,-0.13,Uncertain significance,0,gyrB
+A593V,-0.08,Uncertain significance,0,gyrB
+A238G,-0.79,Uncertain significance,0,gyrB
+A90T,-0.01,Uncertain significance,0,gyrB
+L522V,0.24,Uncertain significance,0,gyrB
+N66H,-0.3,Uncertain significance,0,gyrB
+K404R,-0.11,Uncertain significance,0,gyrB
+K668R,0.04,Uncertain significance,0,gyrB
+Y456H,-3.84,Uncertain significance,0,gyrB
+I506M,-0.73,Uncertain significance,0,gyrB
+F187L,-0.46,Uncertain significance,0,gyrB
+K159M,0.15,Uncertain significance,0,gyrB
+G282D,0.22,Uncertain significance,0,gyrB
+R553G,-0.7,Uncertain significance,0,gyrB
+V675I,0.07,Uncertain significance,0,gyrB
+H285R,-1.56,Uncertain significance,0,gyrB
+E623D,-0.96,Uncertain significance,0,gyrB
+E501V,-0.4,Assoc w R - Interim,0,gyrB
+F475V,-1.1,Uncertain significance,0,gyrB
+I486L,-0.45,Uncertain significance,0,gyrB
+E21K,0.04,Uncertain significance,0,gyrB
+A504T,-1.47,Uncertain significance,0,gyrB
+A233P,0.19,Uncertain significance,0,gyrB
+I93V,0.16,Uncertain significance,0,gyrB
+D640N,-0.56,Uncertain significance,0,gyrB
+G510D,-0.59,Uncertain significance,0,gyrB
+T500P,-0.63,Uncertain significance,0,gyrB
+L257P,-2.93,Uncertain significance,0,gyrB
+D645A,-0.42,Uncertain significance,1,gyrB
+T500I,0.02,Uncertain significance,0,gyrB
+R665C,-0.25,Uncertain significance,0,gyrB
+N66S,-0.88,Uncertain significance,0,gyrB
+L204M,0.24,Uncertain significance,0,gyrB
+E181G,-0.46,Uncertain significance,0,gyrB
+K603N,0.06,Uncertain significance,0,gyrB
+L375F,-0.76,Uncertain significance,0,gyrB
+Y144F,-0.1,Uncertain significance,0,gyrB
+R192H,-0.52,Uncertain significance,0,gyrB
+V630I,0.11,Uncertain significance,0,gyrB
+G520V,0.13,Uncertain significance,0,gyrB
+R495Q,0.02,Uncertain significance,0,gyrB
+A87G,-0.95,Uncertain significance,0,gyrB
+V561G,-3.15,Uncertain significance,0,gyrB
+D110G,-0.08,Uncertain significance,0,gyrB
+F549L,-0.04,Uncertain significance,0,gyrB
+R492S,-0.64,Uncertain significance,0,gyrB
+L354V,-1.06,Uncertain significance,1,gyrB
+S661T,0.16,Uncertain significance,0,gyrB
+T373A,-1.38,Uncertain significance,0,gyrB
+H272P,0.99,Uncertain significance,0,gyrB
+F672V,-0.77,Uncertain significance,0,gyrB
+R523C,-0.31,Uncertain significance,0,gyrB
+S363R,0.2,Uncertain significance,0,gyrB
+L509P,-2.99,Uncertain significance,0,gyrB
+L337R,-0.49,Uncertain significance,0,gyrB
+P439R,0.05,Uncertain significance,0,gyrB
+V301L,-0.53,Not assoc w R,1,gyrB
+E76D,-0.95,Uncertain significance,0,gyrB
+L571I,-0.95,Uncertain significance,0,gyrB
+A644D,-0.38,Uncertain significance,1,gyrB
+E489Q,-0.26,Uncertain significance,0,gyrB
+G470C,-0.53,Uncertain significance,0,gyrB
+K526N,-1.07,Uncertain significance,0,gyrB
+P177H,-0.15,Uncertain significance,0,gyrB
+Q538H,0.23,,0,gyrB
+A355T,-0.54,Uncertain significance,0,gyrB
+L563F,-0.43,Uncertain significance,0,gyrB
+T170A,-0.93,Uncertain significance,0,gyrB
+L638V,0.2,Uncertain significance,0,gyrB
+E299Q,-0.43,Uncertain significance,1,gyrB
+D434E,0.04,Uncertain significance,0,gyrB
+I601T,-1.86,Uncertain significance,0,gyrB
+H560R,-1.65,Uncertain significance,0,gyrB
+A643D,0.63,Uncertain significance,0,gyrB
+L42I,0.4,Uncertain significance,0,gyrB
+V75G,-4.61,Uncertain significance,0,gyrB
+K165N,0.02,Uncertain significance,0,gyrB
+K339R,0.03,Uncertain significance,0,gyrB
+R212T,-0.44,Uncertain significance,0,gyrB
+D259E,-0.44,Uncertain significance,0,gyrB
+S447F,-1.02,Assoc w R - Interim,0,gyrB
+V496G,-3.1,Uncertain significance,0,gyrB
+S298A,-0.25,Uncertain significance,1,gyrB
+G606S,-0.37,Uncertain significance,0,gyrB
+T167M,0.29,Uncertain significance,0,gyrB
+E604G,-0.02,Uncertain significance,0,gyrB
+V218I,-0.17,Uncertain significance,0,gyrB
+N499Y,-0.92,Uncertain significance,0,gyrB
+I34V,-0.39,Uncertain significance,1,gyrB
+T371I,0.07,Uncertain significance,0,gyrB
+Q9H,0.06,Uncertain significance,0,gyrB
+V127A,-1.9,Uncertain significance,0,gyrB
+A242P,-0.7,Uncertain significance,0,gyrB
+P343A,-0.16,Uncertain significance,0,gyrB
+D494A,-0.06,Uncertain significance,0,gyrB
+T250S,0.11,Uncertain significance,0,gyrB
+A115V,-0.25,Uncertain significance,0,gyrB
+V276A,-0.83,Uncertain significance,0,gyrB
+A233V,0.08,Uncertain significance,0,gyrB
+Q476E,-0.78,Uncertain significance,0,gyrB
+G38S,-0.54,Uncertain significance,0,gyrB
+A162E,0.06,Uncertain significance,0,gyrB
+K603R,0.1,Uncertain significance,0,gyrB
+M291I,0.77,Not assoc w R,0,gyrB
+Q538R,0.23,Uncertain significance,0,gyrB
+R446C,0.02,Uncertain significance,0,gyrB
+A432V,0.1,Uncertain significance,0,gyrB
+R417C,0.09,Uncertain significance,0,gyrB
+G470A,-0.2,,0,gyrB
+V535I,0.39,Uncertain significance,0,gyrB
+K7Q,0.07,Uncertain significance,0,gyrB
+A508V,-0.36,Uncertain significance,0,gyrB
+K521N,-0.45,Uncertain significance,0,gyrB
+N499K,-1.7,Uncertain significance,0,gyrB
+D461N,-0.56,Assoc w R,0,gyrB
+S274G,-0.22,Uncertain significance,0,gyrB
+Y582H,-1.86,Uncertain significance,0,gyrB
+T183M,-0.0,Uncertain significance,0,gyrB
+A191D,-2.11,Uncertain significance,0,gyrB
+D402E,1.82,Uncertain significance,0,gyrB
+I493T,-0.82,Uncertain significance,0,gyrB
+D112H,0.12,Uncertain significance,0,gyrB
+P450R,-0.26,Uncertain significance,0,gyrB
+S447A,-0.98,Uncertain significance,0,gyrB
+D220E,-0.12,Uncertain significance,0,gyrB
+I527V,-0.19,Uncertain significance,0,gyrB
+N499S,-1.26,Uncertain significance,0,gyrB
+D461H,-0.78,Assoc w R - Interim,0,gyrB
+Q503R,-0.3,Uncertain significance,0,gyrB
+L555V,-0.34,Uncertain significance,0,gyrB
+N499I,-0.54,Uncertain significance,0,gyrB
+Q565H,-0.11,Uncertain significance,0,gyrB
+S273G,0.17,Uncertain significance,0,gyrB
+A564T,-1.42,Uncertain significance,0,gyrB
+L555F,-0.25,Uncertain significance,0,gyrB
+T182I,0.05,Uncertain significance,0,gyrB
+M58I,-0.37,Uncertain significance,0,gyrB
+N499T,-1.75,Assoc w R,0,gyrB
+E364D,0.01,Uncertain significance,0,gyrB
+E501G,-2.25,Uncertain significance,0,gyrB
+G203V,0.21,Uncertain significance,0,gyrB
+L455V,-1.32,Uncertain significance,0,gyrB
+A504V,-1.09,Assoc w R - Interim,0,gyrB
+C388G,-1.79,Uncertain significance,0,gyrB
+S359T,0.4,Uncertain significance,0,gyrB
+V670I,0.02,Uncertain significance,0,gyrB
+D617Y,-0.05,Uncertain significance,0,gyrB
+I435V,0.06,Uncertain significance,0,gyrB
+R86Q,0.05,Uncertain significance,1,rpsL
+I16T,0.04,Uncertain significance,0,rpsL
+T41S,-0.01,,0,rpsL
+D14Y,0.05,Uncertain significance,0,rpsL
+K88M,-0.01,Assoc w R,1,rpsL
+V52G,-3.22,,1,rpsL
+D14E,0.09,Uncertain significance,0,rpsL
+S17R,0.06,Uncertain significance,0,rpsL
+R86P,0.04,,1,rpsL
+K43N,-0.44,Uncertain significance,1,rpsL
+R94C,0.03,Uncertain significance,1,rpsL
+K88Q,-0.03,Assoc w R - Interim,1,rpsL
+T104M,-1.74,Uncertain significance,1,rpsL
+T40I,0.64,Uncertain significance,1,rpsL
+G124S,0.05,Uncertain significance,0,rpsL
+E70A,0.09,Uncertain significance,1,rpsL
+S101A,-0.72,Uncertain significance,1,rpsL
+R9H,0.09,,0,rpsL
+K88T,-0.1,Uncertain significance,1,rpsL
+K88R,0.01,Assoc w R,1,rpsL
+R86W,0.04,,1,rpsL
+K43M,-0.01,Uncertain significance,1,rpsL
+G71D,0.25,Uncertain significance,1,rpsL
+T64M,0.52,Uncertain significance,1,rpsL
+V55M,-1.69,Uncertain significance,1,rpsL
+K51N,-0.6,,1,rpsL
+V87L,-0.6,,1,rpsL
+E76A,0.11,Uncertain significance,1,rpsL
+K43T,-0.25,Uncertain significance,1,rpsL
+G106C,-0.27,Uncertain significance,1,rpsL
+R30C,-0.15,Uncertain significance,1,rpsL
+K43R,-0.1,Assoc w R,1,rpsL
+V93M,-1.07,,1,rpsL
+G84V,0.02,,1,rpsL
+D656G,0.18,Uncertain significance,0,katG
+K310N,-0.07,Uncertain significance,0,katG
+G273S,0.43,Uncertain significance,0,katG
+R249G,-2.57,Uncertain significance,0,katG
+T251P,-3.26,Uncertain significance,0,katG
+R489S,-1.35,Uncertain significance,0,katG
+A130E,0.1,Uncertain significance,0,katG
+G99E,-2.5,Uncertain significance,0,katG
+Y390S,-3.37,Uncertain significance,0,katG
+E506D,-0.19,Uncertain significance,0,katG
+G309C,-0.58,,0,katG
+P325T,-1.34,Uncertain significance,0,katG
+P589T,-1.63,,0,katG
+G269D,0.08,Uncertain significance,0,katG
+H270P,-0.25,Uncertain significance,0,katG
+R498L,-0.5,Uncertain significance,0,katG
+G34E,0.42,Uncertain significance,0,katG
+P432T,-1.21,Uncertain significance,0,katG
+S620R,-0.64,Uncertain significance,0,katG
+W321L,-1.94,,0,katG
+D189Y,-1.18,Uncertain significance,1,katG
+V697L,-0.81,Uncertain significance,0,katG
+P288L,-1.09,Uncertain significance,0,katG
+S331C,0.17,,0,katG
+N51T,-0.16,Uncertain significance,1,katG
+T376K,-0.85,Uncertain significance,0,katG
+D163N,-2.12,Uncertain significance,1,katG
+G186A,-0.92,Uncertain significance,1,katG
+V710A,-0.05,,1,katG
+A109T,-1.06,Uncertain significance,0,katG
+S17G,0.05,Uncertain significance,0,katG
+E709G,-1.06,Uncertain significance,0,katG
+Q578P,-1.34,Uncertain significance,0,katG
+A61P,0.03,Uncertain significance,0,katG
+W107R,-2.1,,0,katG
+A350S,0.18,,0,katG
+Q717P,-0.81,,0,katG
+L661R,-0.16,Uncertain significance,0,katG
+H108Q,-1.71,,0,katG
+E523D,-0.18,Uncertain significance,0,katG
+F540S,-3.7,Uncertain significance,0,katG
+G279D,-1.62,Uncertain significance,1,katG
+S160L,-1.17,,0,katG
+A591T,-0.7,Uncertain significance,0,katG
+Q295A,-0.09,Uncertain significance,0,katG
+A550T,-1.28,Uncertain significance,0,katG
+L598R,-0.06,Uncertain significance,0,katG
+T271I,0.87,Uncertain significance,0,katG
+A264T,-2.05,Uncertain significance,0,katG
+D735N,0.18,Uncertain significance,0,katG
+W149G,-1.06,Uncertain significance,0,katG
+K153N,0.02,Uncertain significance,0,katG
+G299D,-2.68,Uncertain significance,0,katG
+D311E,0.48,,0,katG
+I497V,-0.69,Uncertain significance,0,katG
+W505S,-2.67,Uncertain significance,0,katG
+D675Y,0.08,Uncertain significance,0,katG
+E391D,-1.16,Uncertain significance,0,katG
+V83G,-2.08,Uncertain significance,0,katG
+K686E,0.09,Uncertain significance,0,katG
+A281V,-0.07,,0,katG
+A726T,-0.06,Uncertain significance,0,katG
+V469L,-1.03,Not assoc w R,0,katG
+G184D,-2.32,Uncertain significance,0,katG
+R145P,-0.7,Uncertain significance,1,katG
+A614T,-1.5,Uncertain significance,1,katG
+G277S,-0.97,Uncertain significance,0,katG
+G316S,-1.08,,0,katG
+D142N,-0.38,Uncertain significance,1,katG
+V710I,0.02,Uncertain significance,1,katG
+T363A,-0.44,Uncertain significance,0,katG
+L384R,-2.89,,0,katG
+P232S,-0.11,Uncertain significance,0,katG
+M126V,-0.77,Uncertain significance,0,katG
+L521P,-3.86,Uncertain significance,0,katG
+W328L,-0.35,Assoc w R,0,katG
+W90R,-0.39,Uncertain significance,0,katG
+I317L,-0.15,,0,katG
+G111D,-2.77,Uncertain significance,0,katG
+H116Y,0.93,Uncertain significance,0,katG
+T326M,-0.22,Uncertain significance,0,katG
+L48Q,-1.07,Uncertain significance,1,katG
+G309S,-0.5,,0,katG
+Q352H,-0.49,Uncertain significance,0,katG
+Y229F,-0.83,,0,katG
+M609I,-0.7,Uncertain significance,1,katG
+W91R,-2.05,Uncertain significance,0,katG
+K158E,-0.7,Uncertain significance,0,katG
+E402K,-0.13,Uncertain significance,0,katG
+P365L,-0.78,,0,katG
+L132R,-1.15,Uncertain significance,1,katG
+D729N,-0.8,Uncertain significance,0,katG
+R463L,-0.08,Not assoc w R,0,katG
+R496L,-0.17,Uncertain significance,0,katG
+T180M,-0.2,Uncertain significance,0,katG
+L147A,-1.88,Uncertain significance,1,katG
+T468P,-2.26,Uncertain significance,0,katG
+F658L,-0.86,Uncertain significance,0,katG
+W321R,-2.93,,0,katG
+G629S,-1.45,,0,katG
+A291P,-1.69,,0,katG
+A541V,-1.27,Uncertain significance,0,katG
+L427R,-0.26,Uncertain significance,1,katG
+V386L,-0.04,Uncertain significance,0,katG
+G186D,-1.62,Uncertain significance,1,katG
+K719Q,-0.58,Uncertain significance,0,katG
+Q679Y,-0.3,Uncertain significance,0,katG
+A614E,-2.9,Uncertain significance,1,katG
+N236T,-0.0,,0,katG
+R693H,-1.81,Uncertain significance,0,katG
+S140R,-0.39,Uncertain significance,1,katG
+I393N,-1.59,,0,katG
+R705L,0.05,Uncertain significance,1,katG
+T380I,0.92,Uncertain significance,0,katG
+Q127P,0.42,Uncertain significance,1,katG
+L220P,-1.9,Uncertain significance,0,katG
+F272L,0.34,Uncertain significance,0,katG
+W300R,-2.29,Uncertain significance,0,katG
+D440E,-0.39,Uncertain significance,0,katG
+K488N,-0.51,Uncertain significance,0,katG
+M257I,-1.48,Uncertain significance,0,katG
+Y337F,-0.25,,0,katG
+S302R,0.09,Uncertain significance,0,katG
+Q439P,-0.21,Uncertain significance,0,katG
+G285A,-0.62,Uncertain significance,0,katG
+G307V,-2.17,Uncertain significance,0,katG
+K557R,0.07,Uncertain significance,0,katG
+S211N,0.09,Uncertain significance,0,katG
+D94A,0.46,Uncertain significance,1,katG
+G124A,0.28,Uncertain significance,0,katG
+K152T,-2.24,Uncertain significance,0,katG
+Q4Y,0.1,Uncertain significance,0,katG
+L437R,-0.08,Uncertain significance,0,katG
+A61T,-0.01,,0,katG
+L619P,-2.99,,0,katG
+P401L,0.0,Uncertain significance,0,katG
+T306P,-0.77,Uncertain significance,0,katG
+D511Y,0.09,Uncertain significance,0,katG
+A492V,-1.01,Uncertain significance,0,katG
+T12P,-0.33,,0,katG
+S482P,-1.32,Uncertain significance,0,katG
+E623G,-2.23,Uncertain significance,0,katG
+D240A,-1.22,Uncertain significance,0,katG
+D194N,-0.2,Uncertain significance,0,katG
+F724L,-0.75,Uncertain significance,0,katG
+R484S,-1.91,,0,katG
+R104Q,-1.41,Uncertain significance,0,katG
+N596S,-0.72,Uncertain significance,1,katG
+G712V,-1.2,Uncertain significance,0,katG
+G121S,-1.79,Uncertain significance,0,katG
+G269S,-0.47,Uncertain significance,0,katG
+G169S,-0.85,Uncertain significance,0,katG
+E318A,-0.18,Uncertain significance,0,katG
+D573N,-0.04,Uncertain significance,0,katG
+P52S,-0.56,Uncertain significance,0,katG
+R128G,-0.78,Uncertain significance,0,katG
+N138H,-0.89,Uncertain significance,1,katG
+A139P,-0.86,Uncertain significance,0,katG
+R418L,-0.07,,0,katG
+T667P,-1.48,Uncertain significance,0,katG
+A649T,-0.41,Uncertain significance,0,katG
+D381N,-1.07,Uncertain significance,0,katG
+V68G,-2.88,Uncertain significance,0,katG
+E709D,-0.36,Uncertain significance,0,katG
+L514P,-2.96,Uncertain significance,0,katG
+S331G,-0.91,Uncertain significance,0,katG
+G593S,-0.64,Uncertain significance,0,katG
+W412Y,-0.07,Uncertain significance,0,katG
+M126I,-0.63,Uncertain significance,0,katG
+K345N,-0.97,Uncertain significance,0,katG
+Q439Y,0.07,Uncertain significance,0,katG
+L611R,-1.77,Uncertain significance,1,katG
+S17N,0.06,,0,katG
+P150S,0.02,Uncertain significance,0,katG
+K143N,-1.99,Uncertain significance,1,katG
+E526K,0.07,Uncertain significance,0,katG
+I335T,-1.28,,0,katG
+Y597H,-2.12,Uncertain significance,0,katG
+K433T,0.06,Uncertain significance,0,katG
+K345T,-0.66,,0,katG
+A464S,0.05,,0,katG
+N218K,0.09,,0,katG
+L587M,0.02,,0,katG
+D63E,-0.63,,0,katG
+G285C,-0.09,Uncertain significance,0,katG
+L378P,-2.59,Uncertain significance,0,katG
+K554N,-0.55,Uncertain significance,0,katG
+A716P,-1.78,,0,katG
+R705W,-0.9,Uncertain significance,1,katG
+T654S,0.31,Uncertain significance,0,katG
+P429R,0.04,Uncertain significance,1,katG
+S700P,-0.04,Uncertain significance,0,katG
+L634F,-0.68,,0,katG
+G120S,-0.22,Uncertain significance,1,katG
+T112S,-0.45,Uncertain significance,0,katG
+G186V,-2.32,,1,katG
+N493K,-0.05,Uncertain significance,0,katG
+S315T,0.5,Assoc w R,0,katG
+G570S,-0.5,Uncertain significance,0,katG
+T394A,-1.21,Uncertain significance,0,katG
+A162G,-1.23,Uncertain significance,0,katG
+A243S,-0.18,,0,katG
+A424G,-0.56,Uncertain significance,1,katG
+G206R,-0.14,Uncertain significance,0,katG
+G599R,-1.0,Uncertain significance,1,katG
+P232L,0.19,Uncertain significance,0,katG
+D117A,0.6,,1,katG
+A716G,-1.43,Uncertain significance,0,katG
+D311Y,0.34,,0,katG
+G712D,-0.85,Uncertain significance,0,katG
+T520A,-0.36,Uncertain significance,0,katG
+G494A,0.34,Uncertain significance,0,katG
+G560A,-0.05,Uncertain significance,0,katG
+L205R,0.32,Uncertain significance,0,katG
+N138D,-1.04,Uncertain significance,1,katG
+N596K,-0.94,Uncertain significance,1,katG
+V473F,-2.07,Uncertain significance,0,katG
+W149C,-0.26,Uncertain significance,0,katG
+V284I,-0.17,Uncertain significance,0,katG
+D74Y,0.08,,0,katG
+A60T,0.06,Uncertain significance,0,katG
+I666M,-0.74,Uncertain significance,0,katG
+D735A,-0.14,Uncertain significance,0,katG
+I248V,-0.6,Uncertain significance,0,katG
+A409D,-1.43,,0,katG
+W505R,-2.68,Uncertain significance,0,katG
+D94G,-0.31,Uncertain significance,1,katG
+N258S,-0.64,,0,katG
+V721L,-0.54,Uncertain significance,0,katG
+D74G,-0.13,Uncertain significance,0,katG
+N238K,-0.24,,0,katG
+Q224E,0.04,,0,katG
+R595L,-0.03,Uncertain significance,1,katG
+S315R,0.23,Assoc w R,0,katG
+R249L,-1.02,Uncertain significance,0,katG
+G309D,-0.5,,0,katG
+A110T,-1.83,Uncertain significance,0,katG
+D37G,-0.06,Uncertain significance,0,katG
+V503A,-1.83,Uncertain significance,0,katG
+G428R,-0.38,,1,katG
+R418Q,-0.81,,0,katG
+W191R,-2.04,Uncertain significance,1,katG
+A444T,-0.01,,0,katG
+E3G,-0.1,Uncertain significance,0,katG
+W328G,-1.78,,0,katG
+D79A,-0.15,Uncertain significance,0,katG
+A621G,-1.27,Uncertain significance,0,katG
+D440Y,-1.62,Uncertain significance,0,katG
+A172T,-0.36,Uncertain significance,0,katG
+W397G,-1.67,Uncertain significance,0,katG
+N138T,-0.54,,1,katG
+W161R,-2.24,Uncertain significance,0,katG
+E289D,-0.05,,0,katG
+M176T,-1.43,Uncertain significance,0,katG
+E607G,-2.14,Uncertain significance,1,katG
+E402A,-0.02,Uncertain significance,0,katG
+V473L,-0.34,Uncertain significance,0,katG
+S486N,-0.02,Uncertain significance,0,katG
+G19D,0.23,,0,katG
+G234E,-1.16,Uncertain significance,0,katG
+S481L,-0.83,Uncertain significance,0,katG
+P136L,0.92,Uncertain significance,1,katG
+A350T,-0.22,,0,katG
+G299A,-1.6,Uncertain significance,0,katG
+E588G,-1.93,Uncertain significance,0,katG
+D682N,-0.27,Uncertain significance,0,katG
+A621T,-0.39,Uncertain significance,0,katG
+T262R,-2.01,,0,katG
+P232A,-0.1,Uncertain significance,0,katG
+H561R,-0.63,Uncertain significance,0,katG
+Q295P,-0.65,Uncertain significance,0,katG
+M176I,-1.64,Uncertain significance,0,katG
+C549S,-1.08,Uncertain significance,0,katG
+E82D,-0.26,Uncertain significance,0,katG
+E607K,-1.25,Uncertain significance,1,katG
+L653P,-2.56,,0,katG
+Y64N,-3.1,Uncertain significance,0,katG
+R128Q,-0.25,Uncertain significance,0,katG
+I103N,-3.17,Uncertain significance,0,katG
+A202S,0.05,Uncertain significance,0,katG
+A60G,0.04,Uncertain significance,0,katG
+G273C,0.47,Uncertain significance,0,katG
+G96C,0.1,,1,katG
+R484H,-1.87,Uncertain significance,0,katG
+Q461P,-1.72,Uncertain significance,0,katG
+A106V,0.27,Uncertain significance,0,katG
+K730N,-0.98,Uncertain significance,0,katG
+M242I,-0.0,Uncertain significance,0,katG
+G699E,0.57,Uncertain significance,0,katG
+T380P,-2.34,Uncertain significance,0,katG
+I335V,-0.31,Uncertain significance,0,katG
+G685D,-0.01,Uncertain significance,0,katG
+S315I,1.4,Assoc w R - Interim,0,katG
+W321C,-1.38,,0,katG
+G206D,0.28,Uncertain significance,0,katG
+Y64S,-3.24,Uncertain significance,0,katG
+L159P,-2.79,Uncertain significance,0,katG
+F698L,-1.74,Uncertain significance,0,katG
+L604F,-0.15,Uncertain significance,1,katG
+M624V,-1.63,Uncertain significance,0,katG
+L587P,-1.24,Uncertain significance,0,katG
+E407K,-0.08,Uncertain significance,0,katG
+D381G,-1.74,Uncertain significance,0,katG
+A348G,-1.13,Uncertain significance,0,katG
+Y337C,-1.59,Uncertain significance,0,katG
+R249H,-2.68,Uncertain significance,0,katG
+P286H,-1.25,Uncertain significance,0,katG
+G285S,-0.31,Uncertain significance,0,katG
+D72G,-1.0,,0,katG
+A379T,-1.03,Uncertain significance,0,katG
+D448A,-0.14,Uncertain significance,0,katG
+P29S,0.14,Uncertain significance,0,katG
+N35D,0.11,,0,katG
+R571L,-0.35,Uncertain significance,0,katG
+Q525P,-1.57,Uncertain significance,0,katG
+I462M,-1.37,Uncertain significance,0,katG
+A558R,0.09,Uncertain significance,0,katG
+F408L,0.03,Uncertain significance,0,katG
+T308P,-1.31,,0,katG
+W438G,-2.02,Uncertain significance,0,katG
+E261K,-1.54,,0,katG
+K459T,-1.88,Uncertain significance,0,katG
+S315G,-0.45,Uncertain significance,0,katG
+S457I,0.03,Uncertain significance,0,katG
+G268S,-0.87,Uncertain significance,0,katG
+D695A,-1.82,,0,katG
+M420T,-1.94,,0,katG
+S315N,0.12,Assoc w R,0,katG
+Q295K,-0.17,Uncertain significance,0,katG
+M84I,-2.17,Uncertain significance,1,katG
+Y304S,-1.65,,0,katG
+L148R,-2.32,,0,katG
+H49Y,0.31,Uncertain significance,1,katG
+A480S,-0.81,Uncertain significance,0,katG
+G491C,-1.09,,0,katG
+F62L,-1.41,Uncertain significance,0,katG
+T324N,-0.12,Uncertain significance,0,katG
+V538L,-0.29,Uncertain significance,0,katG
+A424E,0.1,,1,katG
+L734V,-0.56,Uncertain significance,0,katG
+A110V,-1.29,Uncertain significance,0,katG
+A172V,-0.25,Uncertain significance,0,katG
+L427P,-2.12,Uncertain significance,1,katG
+W728C,-2.53,Uncertain significance,0,katG
+K153Q,0.04,Uncertain significance,0,katG
+R515C,-0.01,,0,katG
+S684R,0.08,Uncertain significance,0,katG
+A550D,-2.5,,0,katG
+A556E,-1.22,Uncertain significance,0,katG
+D329A,-1.33,Uncertain significance,0,katG
+G121A,-1.4,Uncertain significance,0,katG
+F129S,-1.59,Uncertain significance,1,katG
+T654A,0.04,Uncertain significance,0,katG
+R128P,-0.33,,0,katG
+D406G,-0.58,Uncertain significance,0,katG
+E233G,-1.12,Uncertain significance,0,katG
+I317V,-0.07,Uncertain significance,0,katG
+G560R,0.08,Uncertain significance,0,katG
+P533L,-0.02,Uncertain significance,0,katG
+E195K,-0.05,Uncertain significance,0,katG
+T180K,-0.65,,0,katG
+A555P,-1.57,Uncertain significance,0,katG
+Q88R,-0.58,,0,katG
+K200E,-0.13,Uncertain significance,0,katG
+A574V,-0.91,Uncertain significance,0,katG
+I462S,-3.3,Uncertain significance,0,katG
+F183L,-0.75,Uncertain significance,1,katG
+E31A,0.06,Uncertain significance,0,katG
+E233K,-0.18,Uncertain significance,0,katG
+G169A,0.1,Uncertain significance,0,katG
+F594I,-0.43,Uncertain significance,0,katG
+G485V,-0.02,,0,katG
+R249P,-2.87,Uncertain significance,0,katG
+G685R,0.05,,0,katG
+W341S,-3.15,,0,katG
+D142C,0.25,Uncertain significance,1,katG
+S474Q,0.1,Uncertain significance,0,katG
+S527L,0.08,Uncertain significance,0,katG
+P292A,-0.79,Uncertain significance,0,katG
+A492D,-2.52,Uncertain significance,0,katG
+I455M,-0.67,Uncertain significance,0,katG
+V565G,-2.78,Uncertain significance,0,katG
+Q471R,-0.55,Uncertain significance,0,katG
+R104L,-0.31,Uncertain significance,0,katG
+N655D,0.1,Uncertain significance,0,katG
+I462T,-2.61,,0,katG
+F368L,-0.46,Uncertain significance,0,katG
+Y229C,-1.96,Uncertain significance,0,katG
+T435I,-0.04,Uncertain significance,0,katG
+S460N,0.03,Uncertain significance,0,katG
+I71S,-1.7,Uncertain significance,0,katG
+K143E,-1.32,Uncertain significance,1,katG
+T271P,-0.78,Uncertain significance,0,katG
+A256G,-0.19,Uncertain significance,0,katG
+L449F,-0.22,,0,katG
+R78P,-0.07,Uncertain significance,0,katG
+L336R,-1.92,,0,katG
+P347S,-0.42,Uncertain significance,1,katG
+K414N,-2.13,,0,katG
+G285R,-0.07,Uncertain significance,0,katG
+A636E,-1.64,,0,katG
+I71N,-1.75,,0,katG
+K557N,0.04,Uncertain significance,0,katG
+V246G,-0.81,Uncertain significance,0,katG
+A479G,-2.41,Uncertain significance,0,katG
+A122D,-2.11,Uncertain significance,0,katG
+A66P,0.01,,0,katG
+G699V,0.43,Uncertain significance,0,katG
+G297V,-1.05,Uncertain significance,0,katG
+T344S,-0.02,Uncertain significance,0,katG
+G316D,-1.92,,0,katG
+K143T,-1.97,Uncertain significance,1,katG
+V445I,0.02,Uncertain significance,0,katG
+T85P,-0.8,Uncertain significance,0,katG
+L382R,-2.51,Uncertain significance,0,katG
+A65T,0.11,,0,katG
+P429S,0.01,,1,katG
+I248T,-2.07,Uncertain significance,0,katG
+A244G,-1.8,Uncertain significance,0,katG
+V628L,-0.25,Uncertain significance,0,katG
+F332V,-2.51,Uncertain significance,0,katG
+L472P,-3.73,Uncertain significance,0,katG
+L587R,-0.01,Uncertain significance,0,katG
+Q36P,0.19,Uncertain significance,0,katG
+G177A,-0.11,Uncertain significance,0,katG
+W300C,-0.94,Uncertain significance,0,katG
+R463W,0.08,Uncertain significance,0,katG
+A574E,-0.86,,0,katG
+T251M,-1.32,,0,katG
+S140G,-0.4,Uncertain significance,1,katG
+G299S,-1.79,Uncertain significance,0,katG
+G307A,-1.05,,0,katG
+D509N,0.17,Uncertain significance,1,katG
+G121V,-2.42,Uncertain significance,0,katG
+N596T,-0.76,Uncertain significance,1,katG
+W689C,-0.32,Uncertain significance,0,katG
+D142A,0.23,Uncertain significance,1,katG
+A256V,-0.24,Uncertain significance,0,katG
+A706T,-0.0,Uncertain significance,1,katG
+G121C,-1.09,,0,katG
+W328R,-1.73,Uncertain significance,0,katG
+E294G,-0.32,Uncertain significance,0,katG
+W341G,-3.15,Uncertain significance,0,katG
+N236K,-0.06,Uncertain significance,0,katG
+E526D,0.07,Uncertain significance,0,katG
+K46E,-0.16,Uncertain significance,1,katG
+A61S,0.01,Uncertain significance,0,katG
+G120D,-1.02,Uncertain significance,1,katG
+G299C,-0.73,Uncertain significance,0,katG
+L43R,-1.3,Uncertain significance,1,katG
+H108D,-2.29,,0,katG
+A361D,0.07,,0,katG
+A53T,-0.11,Uncertain significance,0,katG
+R736S,-1.08,Uncertain significance,0,katG
+N660A,-0.25,Uncertain significance,0,katG
+D419Y,-0.05,Uncertain significance,0,katG
+K600Q,0.08,Uncertain significance,0,katG
+Q576Y,-0.63,Uncertain significance,0,katG
+D357H,0.07,Uncertain significance,0,katG
+V431G,-1.11,Uncertain significance,1,katG
+G307R,-0.71,Uncertain significance,0,katG
+D487N,-0.87,Uncertain significance,0,katG
+A727D,-2.17,,0,katG
+F567S,-1.62,Uncertain significance,0,katG
+F167C,-0.6,Uncertain significance,0,katG
+D542E,-1.2,Uncertain significance,0,katG
+Q88E,-0.29,Uncertain significance,0,katG
+Y678A,-1.43,Uncertain significance,0,katG
+T322K,-1.25,Uncertain significance,0,katG
+G125C,-0.82,Uncertain significance,0,katG
+A606T,-0.98,Uncertain significance,1,katG
+G307E,-1.17,Uncertain significance,0,katG
+Q502H,-1.02,,0,katG
+G124D,0.48,Uncertain significance,0,katG
+E607D,-1.51,Uncertain significance,1,katG
+L159F,-1.19,Uncertain significance,0,katG
+F567Y,-0.27,Uncertain significance,0,katG
+D357N,0.07,,0,katG
+T324P,-1.82,Uncertain significance,0,katG
+P92S,-0.11,Uncertain significance,0,katG
+P566L,-0.07,Uncertain significance,0,katG
+Y413C,-0.63,Uncertain significance,0,katG
+A256T,-0.14,Uncertain significance,0,katG
+T568H,-0.15,Uncertain significance,0,katG
+I8V,-0.51,Uncertain significance,0,katG
+A75V,-0.58,Uncertain significance,0,katG
+Q461R,-0.36,Uncertain significance,0,katG
+T275S,-0.99,,0,katG
+G490A,-0.32,Uncertain significance,0,katG
+A541T,-1.94,Uncertain significance,0,katG
+Q679E,-0.03,Uncertain significance,0,katG
+L141F,-1.28,Uncertain significance,0,katG
+K488E,-0.31,Uncertain significance,0,katG
+V710G,-0.95,Uncertain significance,1,katG
+N529D,0.35,,0,katG
+G305A,-0.0,,0,katG
+R595Q,-1.19,Uncertain significance,1,katG
+S164P,-0.68,Assoc w R,0,pncA
+F106S,-2.61,Assoc w R - Interim,1,pncA
+V128G,-4.06,Assoc w R,0,pncA
+M175V,-0.84,Assoc w R,0,pncA
+I5S,-3.97,Assoc w R,0,pncA
+D12E,0.31,Assoc w R,1,pncA
+Q10P,-1.82,Assoc w R,0,pncA
+V180F,-1.98,Assoc w R,0,pncA
+V131G,-4.46,Assoc w R - Interim,0,pncA
+M175K,-1.08,,0,pncA
+K96N,-1.01,Assoc w R - Interim,0,pncA
+R2W,-0.18,Uncertain significance,0,pncA
+I31T,-2.4,Assoc w R - Interim,0,pncA
+Y34S,-2.46,Assoc w R - Interim,0,pncA
+H82L,-0.48,,0,pncA
+C14W,-1.14,Assoc w R - Interim,0,pncA
+D49A,1.08,Assoc w R,0,pncA
+N11H,0.11,Uncertain significance,0,pncA
+Y34D,-2.3,Assoc w R,0,pncA
+K96Q,-0.22,Assoc w R,0,pncA
+A171V,-0.22,Uncertain significance,0,pncA
+V155L,-1.15,Uncertain significance,0,pncA
+V180L,-0.71,Uncertain significance,0,pncA
+R2P,-1.23,Uncertain significance,0,pncA
+R2Q,-0.47,Uncertain significance,0,pncA
+D49Y,1.32,Uncertain significance,0,pncA
+W119C,-0.11,Assoc w R - Interim,0,pncA
+V125F,-1.03,Assoc w R - Interim,0,pncA
+G78D,0.39,Assoc w R - Interim,0,pncA
+P54Q,-0.85,Assoc w R - Interim,1,pncA
+F13I,-0.28,Assoc w R,0,pncA
+L4W,-2.01,Assoc w R,0,pncA
+T76A,-0.89,Uncertain significance,0,pncA
+I133S,-3.07,Uncertain significance,0,pncA
+I6M,-1.02,,0,pncA
+V7L,-1.44,Assoc w R,0,pncA
+D12A,0.42,Assoc w R,1,pncA
+H71N,-0.78,,0,pncA
+V180A,-1.32,Assoc w R,0,pncA
+F58V,-0.29,Not assoc w R - Interim,0,pncA
+L19P,-1.9,Assoc w R,0,pncA
+H71D,-0.0,,0,pncA
+A143G,-1.99,Assoc w R - Interim,0,pncA
+H57N,0.71,,1,pncA
+V139A,-2.44,Assoc w R,0,pncA
+T47I,-0.54,Uncertain significance,0,pncA
+V155A,-2.85,Assoc w R - Interim,0,pncA
+R29S,-0.58,Uncertain significance,0,pncA
+R154G,-2.14,Assoc w R,0,pncA
+T114M,0.04,Not assoc w R - Interim,1,pncA
+A46P,-0.33,,0,pncA
+S104I,-1.78,Assoc w R - Interim,1,pncA
+C138R,-0.04,Assoc w R,0,pncA
+G162D,-0.92,Assoc w R - Interim,0,pncA
+H137N,0.03,Uncertain significance,1,pncA
+E37V,0.52,Uncertain significance,0,pncA
+V157A,-1.21,Uncertain significance,0,pncA
+P54R,-1.25,Assoc w R,1,pncA
+T142A,-1.56,Assoc w R,1,pncA
+M175R,-1.65,Assoc w R,0,pncA
+Y41C,-1.26,Uncertain significance,0,pncA
+T87M,-0.11,Not assoc w R - Interim,0,pncA
+S104G,-1.7,Assoc w R - Interim,1,pncA
+G24D,-0.08,Assoc w R,0,pncA
+T100P,-0.84,Assoc w R - Interim,1,pncA
+V7I,-1.06,Uncertain significance,0,pncA
+D8Y,-1.94,Assoc w R - Interim,0,pncA
+G132C,-1.85,Assoc w R - Interim,0,pncA
+G105V,-0.27,Assoc w R - Interim,1,pncA
+V44G,-2.59,Assoc w R - Interim,0,pncA
+V7G,-3.8,Assoc w R,0,pncA
+G105S,-0.96,Uncertain significance,1,pncA
+Q10R,-0.31,Assoc w R,0,pncA
+T135N,-1.01,Assoc w R - Interim,0,pncA
+P54S,-1.37,Assoc w R - Interim,1,pncA
+E174G,-1.57,,0,pncA
+V7A,-2.78,Assoc w R - Interim,0,pncA
+R123P,-0.87,Uncertain significance,0,pncA
+S185T,-0.0,,0,pncA
+D8H,-1.93,Assoc w R - Interim,0,pncA
+A46T,-0.56,Uncertain significance,0,pncA
+K48E,-1.15,Assoc w R - Interim,0,pncA
+V157G,-2.27,Uncertain significance,0,pncA
+T168N,-0.05,,0,pncA
+V9A,-1.81,Uncertain significance,0,pncA
+G108E,-2.18,Assoc w R - Interim,1,pncA
+Y103H,-0.89,Assoc w R,1,pncA
+G17D,-0.34,Assoc w R - Interim,0,pncA
+T142P,-3.19,Assoc w R - Interim,1,pncA
+I90S,-1.6,Assoc w R,0,pncA
+A165T,0.08,,0,pncA
+E15G,-0.12,Not assoc w R - Interim,0,pncA
+H71P,-0.11,Assoc w R,0,pncA
+F13L,-0.29,Assoc w R - Interim,0,pncA
+V139M,-1.98,Assoc w R,0,pncA
+L19R,-0.39,Uncertain significance,0,pncA
+C138Y,-1.78,,0,pncA
+D49H,0.81,,0,pncA
+V139G,-3.18,Assoc w R,0,pncA
+T153P,-2.39,Uncertain significance,0,pncA
+L159R,-1.65,Assoc w R,0,pncA
+A102P,-0.71,Assoc w R,1,pncA
+T76P,-1.91,Assoc w R,0,pncA
+E181D,-0.44,,0,pncA
+S104R,-1.52,Assoc w R,1,pncA
+G78S,0.53,Assoc w R - Interim,0,pncA
+F94L,-1.16,Assoc w R,1,pncA
+W119G,-1.07,Assoc w R - Interim,0,pncA
+A146V,-1.34,Assoc w R,0,pncA
+K96E,-1.57,Assoc w R,0,pncA
+I90N,-1.47,Assoc w R - Interim,0,pncA
+D8E,-1.56,Assoc w R,0,pncA
+K96R,0.82,Assoc w R,0,pncA
+A134P,-0.71,Uncertain significance,0,pncA
+A102T,-0.33,Assoc w R - Interim,1,pncA
+H137P,0.17,Assoc w R - Interim,1,pncA
+Y103C,-0.65,Assoc w R,1,pncA
+D8G,-2.07,Assoc w R,0,pncA
+G132D,-3.06,Assoc w R - Interim,0,pncA
+D8A,-1.31,Assoc w R - Interim,0,pncA
+G124S,0.26,Uncertain significance,0,pncA
+W119R,-1.08,Assoc w R - Interim,0,pncA
+V155G,-4.14,Assoc w R,0,pncA
+R140G,-1.37,Uncertain significance,1,pncA
+S18P,-0.18,Uncertain significance,1,pncA
+L151W,-1.36,Uncertain significance,0,pncA
+L35P,-2.15,Assoc w R - Interim,0,pncA
+F58S,-1.69,Assoc w R - Interim,0,pncA
+F94Y,-0.22,Uncertain significance,1,pncA
+L85R,-0.74,Assoc w R,0,pncA
+N11S,-0.01,Uncertain significance,0,pncA
+H71Y,0.92,Assoc w R,0,pncA
+T142K,-1.99,Assoc w R - Interim,1,pncA
+W119S,-1.05,,0,pncA
+P115S,-0.54,Uncertain significance,0,pncA
+F94C,-1.3,Assoc w R,1,pncA
+H51Q,0.15,Assoc w R,0,pncA
+W68S,-1.2,Uncertain significance,1,pncA
+A3P,-1.26,Uncertain significance,0,pncA
+G97V,-0.72,Assoc w R - Interim,0,pncA
+P54L,-0.47,Assoc w R,1,pncA
+G17R,-1.03,Uncertain significance,0,pncA
+T160A,-1.22,Not assoc w R - Interim,0,pncA
+D8N,-1.54,Assoc w R,0,pncA
+T61P,-0.29,Assoc w R - Interim,1,pncA
+H51Y,1.12,Assoc w R,0,pncA
+L120Q,-1.88,Assoc w R - Interim,0,pncA
+R140H,-1.76,,1,pncA
+C14Y,-2.23,Uncertain significance,0,pncA
+H57L,1.67,Assoc w R - Interim,1,pncA
+G78V,-0.99,Assoc w R - Interim,0,pncA
+V128I,-0.72,Uncertain significance,0,pncA
+G24V,-0.29,Uncertain significance,0,pncA
+A161G,-1.43,Uncertain significance,0,pncA
+V9L,-0.34,,0,pncA
+G23V,-0.81,,0,pncA
+H82Y,0.18,,0,pncA
+L172R,-0.34,Uncertain significance,0,pncA
+D63G,-0.94,Assoc w R - Interim,1,pncA
+I90T,-1.46,Assoc w R - Interim,0,pncA
+L27P,-1.94,Assoc w R,0,pncA
+V130M,-1.36,Assoc w R - Interim,0,pncA
+R140S,-0.64,Uncertain significance,1,pncA
+P69R,0.2,Uncertain significance,1,pncA
+A46E,-1.09,Assoc w R - Interim,0,pncA
+D136V,-0.07,Assoc w R - Interim,0,pncA
+F13S,-2.06,Assoc w R,0,pncA
+W68C,0.24,Assoc w R,1,pncA
+V131F,-1.62,Assoc w R - Interim,0,pncA
+C72W,-1.29,Uncertain significance,1,pncA
+P54A,-0.89,Uncertain significance,1,pncA
+R154M,-0.61,Assoc w R,0,pncA
+A146E,-2.96,Assoc w R - Interim,0,pncA
+A102V,-0.13,Not assoc w R - Interim,1,pncA
+P77L,0.02,Uncertain significance,0,pncA
+C72R,-0.05,Assoc w R,1,pncA
+D12N,0.34,Assoc w R - Interim,1,pncA
+C14F,-1.75,Uncertain significance,0,pncA
+G97D,0.24,Assoc w R,0,pncA
+I6L,-0.7,Not assoc w R - Interim,0,pncA
+H82R,-1.01,Assoc w R,0,pncA
+G105D,-1.99,Assoc w R,1,pncA
+Y64D,-0.56,Assoc w R - Interim,1,pncA
+R148S,-0.43,Uncertain significance,0,pncA
+D63H,-1.09,,1,pncA
+V183L,-0.33,Uncertain significance,0,pncA
+L35R,-0.21,Not assoc w R - Interim,0,pncA
+D80V,-0.38,Uncertain significance,0,pncA
+T76I,-0.8,Assoc w R,0,pncA
+G108R,-1.45,Assoc w R,1,pncA
+T153N,-1.48,,0,pncA
+L120R,-1.58,Assoc w R,0,pncA
+T135P,-1.86,Assoc w R,0,pncA
+H57R,0.5,Assoc w R,1,pncA
+D49V,1.02,,0,pncA
+A171E,-0.32,Assoc w R - Interim,0,pncA
+T168I,0.02,Not assoc w R - Interim,0,pncA
+H51N,-0.29,,0,pncA
+V130A,-3.3,,0,pncA
+Y95D,-2.09,Assoc w R - Interim,0,pncA
+D136G,-1.1,Assoc w R,0,pncA
+I6S,-4.11,Uncertain significance,0,pncA
+D63A,-0.8,Assoc w R,1,pncA
+V180G,-2.74,Assoc w R,0,pncA
+S67P,-0.8,Assoc w R,1,pncA
+T142M,-0.21,Assoc w R,1,pncA
+G17V,-1.43,Uncertain significance,0,pncA
+G132V,-1.96,,0,pncA
+S66P,0.33,Assoc w R,0,pncA
+V9G,-3.1,Assoc w R,0,pncA
+K48T,-1.45,Assoc w R - Interim,0,pncA
+L159P,-3.09,Assoc w R - Interim,0,pncA
+A171T,-0.13,Uncertain significance,0,pncA
+L116P,-2.56,Assoc w R - Interim,0,pncA
+V180D,-2.74,Uncertain significance,0,pncA
+V155M,-1.67,Assoc w R,0,pncA
+K96T,-0.48,Assoc w R,0,pncA
+L116V,-0.55,Uncertain significance,0,pncA
+G105R,-1.52,,1,pncA
+D129G,-2.17,Uncertain significance,0,pncA
+L120P,-2.79,Assoc w R,0,pncA
+F81V,-1.22,Uncertain significance,0,pncA
+V21G,-2.33,Assoc w R - Interim,0,pncA
+T167I,0.14,Uncertain significance,0,pncA
+D129N,-1.88,Assoc w R - Interim,0,pncA
+P62L,-0.83,Assoc w R,1,pncA
+T47S,-1.52,,0,pncA
+V45G,-3.45,Uncertain significance,0,pncA
+W119L,-0.4,Assoc w R - Interim,0,pncA
+D158N,-0.11,Uncertain significance,0,pncA
+T160P,-2.58,Assoc w R,0,pncA
+I6T,-3.33,Assoc w R,0,pncA
+P69L,-0.49,Assoc w R,1,pncA
+S66L,0.38,Not assoc w R - Interim,0,pncA
+H57D,0.8,Assoc w R,1,pncA
+T160K,-1.27,Assoc w R - Interim,0,pncA
+A146T,-1.9,Assoc w R,0,pncA
+L156P,-3.62,Uncertain significance,0,pncA
+G132A,-1.8,Assoc w R,0,pncA
+Q10H,0.1,Assoc w R,0,pncA
+G97C,0.65,Assoc w R,0,pncA
+V7D,-3.23,,0,pncA
+L182S,-2.24,Assoc w R,0,pncA
+H57Y,1.95,Assoc w R,1,pncA
+L172P,-2.58,Assoc w R,0,pncA
+G24R,-0.52,,0,pncA
+D136E,-0.23,Uncertain significance,0,pncA
+R121P,-0.06,Assoc w R - Interim,0,pncA
+S179R,-0.02,,0,pncA
+A3E,-1.03,Assoc w R - Interim,0,pncA
+W68L,-0.02,Assoc w R - Interim,1,pncA
+G132S,-2.19,Assoc w R,0,pncA
+F81S,-2.41,Uncertain significance,0,pncA
+L4S,-3.52,Assoc w R,0,pncA
+P115L,-0.52,Uncertain significance,0,pncA
+T142R,-2.45,,1,pncA
+V163A,-0.05,Assoc w R - Interim,0,pncA
+A134S,-0.29,,0,pncA
+P62R,-0.98,Assoc w R - Interim,1,pncA
+A30V,-0.08,Uncertain significance,0,pncA
+T167P,-1.25,Uncertain significance,0,pncA
+H51R,0.33,Assoc w R,0,pncA
+H51D,-0.56,Assoc w R,0,pncA
+Y103S,-0.78,Uncertain significance,1,pncA
+S59F,-0.25,Uncertain significance,1,pncA
+C72Y,-1.19,Assoc w R - Interim,1,pncA
+F58C,-0.2,Assoc w R - Interim,0,pncA
+N118T,0.21,,0,pncA
+S179I,-0.07,Uncertain significance,0,pncA
+C14R,-1.54,Assoc w R,0,pncA
+G17S,-0.56,Uncertain significance,0,pncA
+S59P,-0.8,Assoc w R,1,pncA
+R140P,-1.5,Assoc w R - Interim,1,pncA
+M175T,-1.35,Assoc w R - Interim,0,pncA
+H137Y,1.42,Uncertain significance,1,pncA
+Q10K,0.01,Uncertain significance,0,pncA
+A143P,-1.61,,0,pncA
+D53A,0.01,,1,pncA
+S32I,0.32,Uncertain significance,0,pncA
+V93A,-1.32,Assoc w R - Interim,0,pncA
+V130G,-4.46,Assoc w R - Interim,0,pncA
+W68G,-0.92,Assoc w R,1,pncA
+F58L,-0.06,Assoc w R,0,pncA
+Q141P,0.15,Assoc w R,0,pncA
+A171P,-0.34,Assoc w R - Interim,0,pncA
+D49G,-0.3,Assoc w R,0,pncA
+H137R,0.19,Not assoc w R - Interim,1,pncA
+S65P,0.15,Uncertain significance,1,pncA
+L159V,-1.05,Assoc w R - Interim,0,pncA
+A79T,0.5,Not assoc w R - Interim,0,pncA
+L182W,-0.14,Assoc w R,0,pncA
+V7F,-2.98,Assoc w R - Interim,0,pncA
+A46V,0.73,Assoc w R - Interim,0,pncA
+A143D,-2.68,,0,pncA
+H43Y,1.13,Uncertain significance,0,pncA
+V21A,-1.03,Not assoc w R - Interim,0,pncA
+F106L,-0.84,Assoc w R - Interim,1,pncA
+D12G,-0.43,Assoc w R,1,pncA
+I31S,-3.19,Assoc w R,0,pncA
+D53N,0.07,,1,pncA
+V125G,-1.72,Assoc w R,0,pncA
+G97S,0.52,Assoc w R,0,pncA
+P69T,-0.4,Uncertain significance,1,pncA
+F94S,-3.1,Assoc w R - Interim,1,pncA
+T47A,-2.29,Assoc w R,0,pncA
+Y99C,-0.17,Uncertain significance,1,pncA
+T114P,-1.73,Assoc w R - Interim,1,pncA
+M175I,-0.59,Assoc w R - Interim,0,pncA
+P62T,-1.83,Assoc w R - Interim,1,pncA
+Y41H,-1.5,,0,pncA
+I133T,-1.85,Assoc w R,0,pncA
+S185I,0.29,,0,pncA
+W68R,-0.74,Assoc w R,1,pncA
+H51P,0.9,Assoc w R,0,pncA
+G97R,0.75,Assoc w R,0,pncA
+D49E,1.11,Assoc w R - Interim,0,pncA
+L151S,-2.22,Assoc w R,0,pncA
+V130E,-3.68,,0,pncA
+H57P,1.15,Uncertain significance,1,pncA
+H57Q,0.69,Assoc w R - Interim,1,pncA
+P62S,-0.78,Assoc w R - Interim,1,pncA
+Y103D,-0.22,Assoc w R - Interim,1,pncA
+D49N,0.48,Assoc w R - Interim,0,pncA
+D145Y,-0.19,Uncertain significance,1,pncA
+A26V,0.08,Uncertain significance,0,pncA
+A171G,-0.99,Uncertain significance,0,pncA
+H71R,-0.07,Assoc w R,0,pncA
+M1T,0.59,,0,pncA
+G132R,-2.27,Uncertain significance,0,pncA
+A79G,-0.14,,0,pncA
+T168P,-2.18,Assoc w R - Interim,0,pncA
+T177P,-0.81,Assoc w R,0,pncA
+L116R,-1.94,Assoc w R - Interim,0,pncA
+V139L,-0.79,Assoc w R - Interim,0,pncA
+A26G,-0.29,,0,pncA
+L85P,-1.85,Assoc w R,0,pncA
+P54T,-1.75,Assoc w R - Interim,1,pncA
+D136N,-0.47,Uncertain significance,0,pncA
+V93L,-0.18,Assoc w R - Interim,0,pncA
+A134V,-0.59,Assoc w R,0,pncA
+T114A,-0.66,,1,pncA
+T47P,-3.03,Assoc w R,0,pncA
+H43P,-0.02,Assoc w R - Interim,0,pncA
+D136H,-0.67,Uncertain significance,0,pncA
+T160R,-0.6,Uncertain significance,0,pncA
+R65P,0.27,Uncertain significance,0,ethA
+N298T,-0.34,Uncertain significance,0,ethA
+A304V,-0.1,Uncertain significance,0,ethA
+R479P,-0.25,Uncertain significance,0,ethA
+R441L,0.02,Uncertain significance,0,ethA
+I161T,-0.98,Uncertain significance,0,ethA
+D58A,-2.23,Uncertain significance,1,ethA
+T125M,0.09,Uncertain significance,0,ethA
+L82P,-2.58,Uncertain significance,0,ethA
+G450D,-0.78,Uncertain significance,0,ethA
+Y50D,-2.35,Uncertain significance,1,ethA
+V419I,-0.51,Uncertain significance,0,ethA
+R239Q,-1.95,Uncertain significance,1,ethA
+V188G,-2.89,Uncertain significance,0,ethA
+I9S,-3.21,Uncertain significance,0,ethA
+Y250N,-1.04,Uncertain significance,0,ethA
+L397R,-1.68,Uncertain significance,0,ethA
+M41I,-0.9,Uncertain significance,0,ethA
+V238I,-1.02,Uncertain significance,0,ethA
+M409T,-2.08,Uncertain significance,0,ethA
+R466W,-0.05,Uncertain significance,0,ethA
+L190P,-3.81,Uncertain significance,0,ethA
+G43D,-0.48,Uncertain significance,0,ethA
+G42S,-1.3,Uncertain significance,0,ethA
+L348F,-0.29,Uncertain significance,0,ethA
+T189K,-0.29,Uncertain significance,0,ethA
+K200R,0.09,Uncertain significance,0,ethA
+T232A,-0.11,Uncertain significance,0,ethA
+S329L,0.02,Uncertain significance,0,ethA
+V85G,-2.76,Uncertain significance,0,ethA
+H281R,-0.42,Uncertain significance,0,ethA
+D196E,0.19,Uncertain significance,0,ethA
+T342K,-0.42,Uncertain significance,0,ethA
+Q165H,0.05,Uncertain significance,0,ethA
+A187V,-0.91,Uncertain significance,0,ethA
+P257T,-1.57,Uncertain significance,0,ethA
+H119R,-0.1,Uncertain significance,0,ethA
+L397P,-3.45,Uncertain significance,0,ethA
+R261W,-0.23,Uncertain significance,0,ethA
+W167R,-1.74,Uncertain significance,0,ethA
+S329P,-0.02,Uncertain significance,0,ethA
+M263T,-0.8,Uncertain significance,0,ethA
+R303P,-1.04,Uncertain significance,0,ethA
+G42C,-0.85,Uncertain significance,0,ethA
+I212M,-0.89,Uncertain significance,0,ethA
+P164L,0.23,Uncertain significance,0,ethA
+M204V,-0.53,Uncertain significance,0,ethA
+H22Q,0.45,Uncertain significance,0,ethA
+D415G,-0.49,Uncertain significance,0,ethA
+G182A,-0.76,Uncertain significance,0,ethA
+F157S,-2.17,Uncertain significance,0,ethA
+S57F,-1.41,Uncertain significance,1,ethA
+T70S,0.03,Uncertain significance,0,ethA
+W116C,-1.07,Uncertain significance,0,ethA
+G43C,-0.54,Uncertain significance,0,ethA
+Y141N,-1.22,Uncertain significance,0,ethA
+V118G,-2.39,Uncertain significance,0,ethA
+V238G,-3.85,Uncertain significance,0,ethA
+I473S,-2.13,Uncertain significance,0,ethA
+S208P,-0.21,Uncertain significance,0,ethA
+K241T,-0.79,Uncertain significance,0,ethA
+T117P,-1.46,Uncertain significance,0,ethA
+Y141C,-0.71,Uncertain significance,0,ethA
+T189M,0.32,Uncertain significance,0,ethA
+T353M,-0.13,Uncertain significance,0,ethA
+A322V,-0.01,Uncertain significance,0,ethA
+T88P,-2.9,Uncertain significance,0,ethA
+L82R,-0.47,Uncertain significance,0,ethA
+P378S,-1.74,Uncertain significance,0,ethA
+Y32D,-2.28,Uncertain significance,0,ethA
+F151L,-0.69,Uncertain significance,0,ethA
+G184D,-0.1,Uncertain significance,0,ethA
+C137Y,-2.47,Uncertain significance,0,ethA
+L348I,-0.29,Uncertain significance,0,ethA
+H4N,-0.14,Uncertain significance,0,ethA
+A12V,-1.52,Uncertain significance,0,ethA
+T321P,-2.19,Uncertain significance,0,ethA
+V7A,-1.41,Uncertain significance,0,ethA
+L393R,-2.19,Uncertain significance,0,ethA
+A175T,-0.09,Uncertain significance,0,ethA
+A381P,-1.48,Uncertain significance,0,ethA
+G78S,-0.3,Uncertain significance,0,ethA
+L194R,-2.15,Uncertain significance,0,ethA
+A20V,0.1,Uncertain significance,0,ethA
+Q165P,-1.08,Uncertain significance,0,ethA
+L62P,-2.95,Uncertain significance,1,ethA
+D46N,-1.09,Uncertain significance,0,ethA
+I181S,-2.59,Uncertain significance,0,ethA
+M372T,-2.52,Uncertain significance,0,ethA
+P192L,-1.12,Uncertain significance,0,ethA
+G63V,-2.18,Uncertain significance,1,ethA
+N379S,-1.3,Uncertain significance,0,ethA
+R239G,-2.25,Uncertain significance,1,ethA
+E311D,-1.05,Uncertain significance,0,ethA
+M233V,0.01,Uncertain significance,0,ethA
+L348P,-1.83,Uncertain significance,0,ethA
+A90T,0.05,Uncertain significance,0,ethA
+A76D,-1.89,Uncertain significance,1,ethA
+W45L,-0.86,Uncertain significance,0,ethA
+L393V,-1.42,Uncertain significance,0,ethA
+Y386S,-2.61,Uncertain significance,0,ethA
+V188I,0.07,Uncertain significance,0,ethA
+L478R,-1.83,Uncertain significance,0,ethA
+Y84S,-1.94,Uncertain significance,0,ethA
+T355P,-1.71,Uncertain significance,0,ethA
+G343R,-0.05,Uncertain significance,0,ethA
+P192S,-0.89,Uncertain significance,0,ethA
+A247P,-0.19,Uncertain significance,0,ethA
+T61M,-1.7,Uncertain significance,1,ethA
+T366P,-2.41,Uncertain significance,0,ethA
+M204R,-1.61,Uncertain significance,0,ethA
+Y50C,-1.92,Uncertain significance,1,ethA
+V426F,-1.65,Uncertain significance,0,ethA
+V402F,-2.8,Uncertain significance,0,ethA
+G13R,-0.77,Uncertain significance,0,ethA
+A20P,-0.54,Uncertain significance,0,ethA
+F66L,0.09,Uncertain significance,1,ethA
+V118F,-0.29,Uncertain significance,0,ethA
+G139V,0.26,Uncertain significance,0,ethA
+C403Y,-1.19,Assoc w R - Interim,0,ethA
+N379D,-1.06,Assoc w R - Interim,0,ethA
+A341V,0.14,Assoc w R - Interim,0,ethA
+V202G,-2.58,Assoc w R - Interim,0,ethA
+L35R,-2.26,Assoc w R - Interim,0,ethA
+S390F,-2.73,Assoc w R - Interim,0,ethA
+S57Y,-0.93,Assoc w R - Interim,1,ethA
+G11A,-1.1,,0,ethA
+R207G,-0.01,Assoc w R,0,ethA
+R463S,-0.01,,0,ethA
+T88I,-0.44,Assoc w R - Interim,0,ethA
+R115C,0.15,Uncertain significance,0,ethA
+D410H,-0.62,Uncertain significance,0,ethA
+Y461H,-2.89,,0,ethA
+T186K,-0.39,,0,ethA
+L333R,-1.49,,0,ethA
+M1R,0.05,,0,ethA
+L301P,-2.82,Uncertain significance,0,ethA
+R67H,-0.52,Uncertain significance,0,ethA
+E223K,-0.17,,0,ethA
+V384A,-0.98,Uncertain significance,0,ethA
+M1T,0.05,,0,ethA
+I338L,-0.5,Uncertain significance,0,ethA
+Y276H,-1.66,Uncertain significance,0,ethA
+A185E,0.04,Uncertain significance,0,ethA
+G43V,-1.6,Uncertain significance,0,ethA
+T392A,0.38,Uncertain significance,1,ethA
+E3G,-1.35,Uncertain significance,0,ethA
+D56A,-0.47,Uncertain significance,0,ethA
+D336E,-0.73,Uncertain significance,0,ethA
+C403R,-1.32,Uncertain significance,0,ethA
+P230L,-0.42,Uncertain significance,0,ethA
+L23R,0.11,Uncertain significance,0,ethA
+P192T,-1.41,Uncertain significance,0,ethA
+I337V,-0.46,Uncertain significance,0,ethA
+C403G,-0.69,Uncertain significance,0,ethA
+G182D,-1.04,Uncertain significance,0,ethA
+L136R,-1.25,Uncertain significance,0,ethA
+I305S,-1.36,Uncertain significance,0,ethA
+P447S,-1.82,Uncertain significance,1,ethA
+M59R,-2.35,Uncertain significance,1,ethA
+P273S,-0.17,Uncertain significance,0,ethA
+Y147C,-1.38,Uncertain significance,0,ethA
+L23P,-1.5,Uncertain significance,0,ethA
+L272P,-2.22,Uncertain significance,0,ethA
+A107S,0.33,Uncertain significance,0,ethA
+F302S,-2.98,Uncertain significance,0,ethA
+S138I,-0.1,Uncertain significance,0,ethA
+G343V,-1.24,Uncertain significance,0,ethA
+N287K,-0.85,Uncertain significance,0,ethA
+A33G,-1.51,Uncertain significance,0,ethA
+R441C,0.02,Uncertain significance,0,ethA
+D58N,-1.74,Uncertain significance,1,ethA
+A20D,-1.71,Uncertain significance,0,ethA
+W240R,-0.31,Uncertain significance,0,ethA
+G184V,-1.14,Uncertain significance,0,ethA
+F264L,-1.66,Uncertain significance,0,ethA
+S375P,-1.43,Uncertain significance,0,ethA
+P288S,-1.41,Uncertain significance,0,ethA
+Y50N,-2.82,Uncertain significance,1,ethA
+N298H,-0.43,Uncertain significance,0,ethA
+T210N,-1.49,Uncertain significance,0,ethA
+A222V,-1.56,Uncertain significance,0,ethA
+Y461D,-3.83,Uncertain significance,0,ethA
+T44A,0.02,Uncertain significance,0,ethA
+M373I,-1.39,Uncertain significance,0,ethA

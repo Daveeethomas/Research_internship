@@ -1,0 +1,25 @@
+Gene,Protein change,Mutation on interface,Count,Ratio,Number of samples,confidence,source,drug
+fbiC,p.Trp678Gly,Yes,198,16.9%,1173,Uncertain significance,WHO catalogue v2,clofazimine
+fbiC,p.Trp678Gly,Yes,198,16.9%,1173,Uncertain significance,WHO catalogue v2,delamanid
+fbiC,p.Val29Gly,No,117,10.0%,1173,,,
+fbiC,p.Ala505Thr,No,106,9.0%,1173,Uncertain significance,WHO catalogue v2,clofazimine
+fbiC,p.Ala505Thr,No,106,9.0%,1173,Uncertain significance,WHO catalogue v2,delamanid
+fbiC,p.Ile128Val,No,82,7.0%,1173,,,
+fbiC,p.Glu224Gly,No,71,6.1%,1173,,,
+fbiC,p.Thr273Ala,No,39,3.3%,1173,Uncertain significance,WHO catalogue v2,clofazimine
+fbiC,p.Thr273Ala,No,39,3.3%,1173,Uncertain significance,WHO catalogue v2,delamanid
+fbiC,p.Val410Gly,No,31,2.6%,1173,,,
+fbiC,p.Asp100Glu,No,16,1.4%,1173,Uncertain significance,WHO catalogue v2,clofazimine
+fbiC,p.Asp100Glu,No,16,1.4%,1173,Uncertain significance,WHO catalogue v2,delamanid
+fbiC,p.Asn640Thr,No,16,1.4%,1173,,,
+fbiC,p.Gly655Ser,No,13,1.1%,1173,,,
+kasA,p.Gly269Ser,Yes,1555,71.0%,2191,,,
+kasA,p.Gly312Ser,No,308,14.1%,2191,,,
+kasA,p.Asp319Glu,No,34,1.6%,2191,,,
+kasA,p.His253Tyr,No,23,1.0%,2191,,,
+kasA,p.Met165Ile,Yes,16,0.7%,2191,,,
+kasA,p.Phe413Leu,No,14,0.6%,2191,,,
+kasA,p.Ala45Ser,No,12,0.5%,2191,,,
+kasA,p.Ser13Arg,No,11,0.5%,2191,,,
+kasA,p.Pro389Leu,No,10,0.5%,2191,,,
+kasA,p.Ala329Val,No,9,0.4%,2191,,,
