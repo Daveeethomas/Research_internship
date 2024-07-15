@@ -159,3 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Determining_interesting_mutations/variants_50k_with_genes.csv
+Determining_interesting_mutations/variants_50k_with_genes.csv
